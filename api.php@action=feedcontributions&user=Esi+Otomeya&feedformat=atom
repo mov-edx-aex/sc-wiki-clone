@@ -1,0 +1,420 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB">
+	<id>https://wiki.signalcartel.space/api.php?action=feedcontributions&amp;user=Esi+Otomeya&amp;feedformat=atom</id>
+	<title>The Explorer&#039;s Compendium - User contributions [en-gb]</title>
+	<link rel="self" type="application/atom+xml" href="https://wiki.signalcartel.space/api.php?action=feedcontributions&amp;user=Esi+Otomeya&amp;feedformat=atom"/>
+	<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/Special:Contributions/Esi_Otomeya"/>
+	<updated>2024-01-26T09:45:48Z</updated>
+	<subtitle>User contributions</subtitle>
+	<generator>MediaWiki 1.40.1</generator>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Thera_and_Turnur_Scanning_Guide&amp;diff=14243</id>
+		<title>Thera and Turnur Scanning Guide</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Thera_and_Turnur_Scanning_Guide&amp;diff=14243"/>
+		<updated>2024-01-25T02:12:04Z</updated>
+
+		<summary type="html">&lt;p&gt;Esi Otomeya: Undo revision 14242 by Esi Otomeya (talk)&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;{{Template:TS|expanded=all}}&lt;br /&gt;
+&lt;br /&gt;
+The Thera and Turnur Scanning Guide is intended to explain how to keep our [https://www.eve-scout.com/ EvE-Scout Wormhole Connections] website up-to-date using the [https://scan.eve-scout.com/ Hub Scan Tool].&lt;br /&gt;
+&lt;br /&gt;
+== Overview ==&lt;br /&gt;
+# Join the in-game &amp;lt;code&amp;gt;EvE-Scout.TheraMap&amp;lt;/code&amp;gt; chat channel. This channel is for Thera and Turnur mapping communications.&lt;br /&gt;
+# Log in your pilot [https://scan.eve-scout.com/ Hub Scan Tool].&lt;br /&gt;
+# Use the [https://scan.eve-scout.com/ Hub Scan Tool] to check the status of signatures in Thera or Turnur.&lt;br /&gt;
+## Clear any expired signatures in the [https://scan.eve-scout.com/ Hub Scan Tool].&lt;br /&gt;
+## Map any new signatures using the [https://scan.eve-scout.com/ Hub Scan Tool] and save the bookmarks to the in-game &amp;lt;code&amp;gt;Signal Cartel \\ Thera&amp;lt;/code&amp;gt; folder.&lt;br /&gt;
+# Have questions?  Ask away in the &amp;lt;code&amp;gt;[https://discord.com/channels/152437634927427584/757523687137083403 #mapping-lounge]&amp;lt;/code&amp;gt; Discord channel or in-game &amp;lt;code&amp;gt;EvE-Scout.TheraMap&amp;lt;/code&amp;gt; intel channel.&lt;br /&gt;
+# After you have added 5 or more Thera or Turnur wormholes to the [https://www.eve-scout.com/ EvE-Scout Wormhole Connections] website, claim your free fitted covert ops ship by [https://discord.com/channels/152437634927427584/1135167433754300506 &#039;&#039;&#039;clicking here&#039;&#039;&#039;]!  Program is courtesy of [https://evewho.com/character/2114254786 Tekufah] (Thera) and [https://evewho.com/character/2119295977 Samari Arila Enaka] (Turnur).&lt;br /&gt;
+&lt;br /&gt;
+== Tools of the Trade ==&lt;br /&gt;
+&lt;br /&gt;
+=== Hub Scan Tool ===&lt;br /&gt;
+* The [https://scan.eve-scout.com/ Hub Scan Tool] is a web-based program that helps to coordinate, simplify and speed up the process of scanning and recording Thera and Turnur signatures, while reducing typing errors. The tool makes it quick to see what signatures are expired or new, co-ordinates work between pilots, and maintains the list of signatures published on our public [https://www.eve-scout.com/ EvE-Scout Wormhole Connections] page.&lt;br /&gt;
+&lt;br /&gt;
+* These tools were created as a gift to Signal Cartel by the Engineering Team:&lt;br /&gt;
+** API&lt;br /&gt;
+*** [https://evewho.com/character/96293852 Sky Diamond] - main devloper of the API and overall project lead&lt;br /&gt;
+*** [https://evewho.com/character/2121390498 Ezra Cyrix] - unit test developer and helpful listener to Sky&#039;s ramblings&lt;br /&gt;
+*** [https://evewho.com/character/93087261 Kamja Seas] - jumped at the opportunity to support with a data validation script&lt;br /&gt;
+*** [https://evewho.com/character/2120621292 Millener Audeles] - advisor with general architecture and other dev exchange&lt;br /&gt;
+*** [https://evewho.com/character/2119526651 Okamainen al&#039;Anzomi] - major developer of the authentication part, general architecture, unit test developer and lots more&lt;br /&gt;
+*** [https://evewho.com/character/2114254786 Tekufah] - advisor about all the in-game details where Sky has no clue and testing the routing algorithm&lt;br /&gt;
+*** [https://evewho.com/character/2116458565 Vega Blazar] - editing, proofreading, and and documentation&lt;br /&gt;
+** Hub Scan Tool (HST)&lt;br /&gt;
+*** [https://evewho.com/character/2113781815 Mzsbi Haev]&lt;br /&gt;
+** Public Website www.eve-scout.com&lt;br /&gt;
+*** [https://evewho.com/character/2119295977 Samari Arila Enaka]&lt;br /&gt;
+&lt;br /&gt;
+== Thera and Turnur Scanning Instructions ==&lt;br /&gt;
+&lt;br /&gt;
+=== Preparation ===&lt;br /&gt;
+* Be in Thera or Turnur, undocked, and preferably cloaked at a safe in the scanning ship of your choice.&lt;br /&gt;
+* Join the &amp;lt;code&amp;gt;EvE-Scout.TheraMap&amp;lt;/code&amp;gt; chat channel.&lt;br /&gt;
+* Online the shared in-game bookmark folders:&lt;br /&gt;
+** &amp;lt;code&amp;gt;Signal Cartel \\ Thera&amp;lt;/code&amp;gt;: this is our private folder. Put your bookmarks here!&lt;br /&gt;
+** &amp;lt;code&amp;gt;EVE-Scout \\ Thera&amp;lt;/code&amp;gt;: this is our public folder. Only Bookmark Managers have write permission.&lt;br /&gt;
+** Links are given in the Alliance and Intel Channel chat MOTDs.&lt;br /&gt;
+* Open the [https://scan.eve-scout.com/ Hub Scan Tool] and log in your pilot.&lt;br /&gt;
+* Check the Hub Selector is set correctly:&amp;lt;br&amp;gt;[[File:Slide.png]]&lt;br /&gt;
+&lt;br /&gt;
+=== Assess the Status of the Current Thera or Turnur Map Using the Hub Scan Tool ===&lt;br /&gt;
+Import the current lists of Thera/Turnur signatures from your Probe Scanner window into the Hub Scan Tool. See the instructions in the tool for more information.&lt;br /&gt;
+&lt;br /&gt;
+==== Import Signatures Tab ====&lt;br /&gt;
+* Copy all of the Cosmic Signatures from your Probe Scanner window (you need to filter out all anomalies in your Probe Scanner window first) and paste them here (Ctrl-A, Ctrl-C, Ctrl-V), then click the Update button to start mapping. If a new signature appears in your Probe Scanner later, copy and paste just that one into the import tab then Update to add it.&amp;lt;br&amp;gt;[[File:Import.png|600px]]&lt;br /&gt;
+&lt;br /&gt;
+==== Scan Signatures Tab ====&lt;br /&gt;
+* The &amp;quot;Scan Signatures&amp;quot; tab in the Hub Scan Tool will populate a table that cross-references with Probe Scanner data:&lt;br /&gt;
+** Expired signatures are highlighted in orange,&lt;br /&gt;
+** New signatures are highlighted in blue:&amp;lt;br&amp;gt;[[File:Blue.png|600px]][[File:Orange.png|600px]]&lt;br /&gt;
+&lt;br /&gt;
+=== Clear the Expired Signatures ===&lt;br /&gt;
+While it may seem counterintuitive at first, clearing expired signatures (highlighted in orange) should be prioritized over mapping new signatures.  This is because capsuleers will plan their routes based on potentially dated information and non-existent wormhole connections.  So clear those expired sigs!&lt;br /&gt;
+&lt;br /&gt;
+* Tip: There is a &#039;Sort by: working order&#039; option under the signatures list. If you select this, the signatures will sort into working order.&amp;lt;br&amp;gt;[[File:HST Sort order options.png]]&lt;br /&gt;
+&lt;br /&gt;
+==== Confirm the Signature is Expired In-game ====&lt;br /&gt;
+* Open the in-game Probe Scanner window and confirm that the expired signature ID is not listed.&lt;br /&gt;
+&lt;br /&gt;
+==== Delete the Expired Signature from Hub Scan Tool ====&lt;br /&gt;
+* By selecting trash icon:&amp;lt;br&amp;gt;[[File:trash.png]]&lt;br /&gt;
+&lt;br /&gt;
+* The new tool will update almost instantly for all users.&lt;br /&gt;
+&lt;br /&gt;
+=== Map the New Signatures ===&lt;br /&gt;
+New signatures need to be scanned down, mapped, and then added to Hub Scan Tool. Using the Tool to help manage your workflow, you will work from left to right for each New Signature highlighted in blue on the &amp;quot;Scan Signatures&amp;quot; table.&lt;br /&gt;
+* By clicking on the pen icon you automatically claim the signature (if another mapper will try to click on the sig you&#039;re working on, an alert will pop up on their Tool denoting the sig has been claimed by your pilot).&lt;br /&gt;
+&lt;br /&gt;
+==== Scan Down the Cosmic Signature ====&lt;br /&gt;
+* Scan down the signature and assuming it&#039;s a wormhole, you&#039;re in business! &lt;br /&gt;
+** If it&#039;s a combat, data, relic or gas site enter its type in the Tool, save it, and move on to the next signature.&lt;br /&gt;
+&lt;br /&gt;
+&#039;&#039;NOTE:&#039;&#039;  Teaching proper scanning techniques is beyond the scope of this guide. To learn more about scanning down Cosmic Signatures please see our Explorer&#039;s Handbook [[Scanning]] page.&lt;br /&gt;
+&lt;br /&gt;
+==== Map the Signature ====&lt;br /&gt;
+You will use the Hub Scan Tool to expedite your workflow moving from left to right along the row.&lt;br /&gt;
+&lt;br /&gt;
+===== Enter the Outgoing Thera/Turnur-side Wormhole Type =====&lt;br /&gt;
+* Warp to the wormhole.&lt;br /&gt;
+** Once you are on grid with the wormhole, look for it&#039;s [https://wiki.eveuniversity.org/Wormhole_attributes type] on your in-game Overview.  If it&#039;s not &#039;K162&#039;, enter it into the Type column of the Hub Scan Tool. For K162 you may just tab to the next field as this will be auto-populated.&amp;lt;br&amp;gt;[[File:WH out.png|600px]][[File:WH out type.png]]&lt;br /&gt;
+** Also, right click on the wormhole and select the &amp;quot;Show Info&amp;quot; option to discover if the wormhole&#039;s lifetime is end-of-life (the info will show “reaching the end of its natural lifetime”).  Fill the dedicated tick in Hub Scan Tool if the WH is EOL (end of life).&lt;br /&gt;
+&lt;br /&gt;
+===== Enter the Incoming Wormhole Type and Destination System =====&lt;br /&gt;
+* Jump through the wormhole (assuming it&#039;s safe).&lt;br /&gt;
+* Enter the incoming wormhole&#039;s type (if it&#039;s k162, it will be auto-populated).&lt;br /&gt;
+* Confirm the far system&#039;s name into the Hub Scan Tool (it will auto-detect via the ESI):&amp;lt;br&amp;gt;[[File:Farinfomod2.png]]&lt;br /&gt;
+&lt;br /&gt;
+===== Enter the Incoming Wormhole Signature =====&lt;br /&gt;
+* Enter the incoming wormhole&#039;s signature in the Far System&#039;s Signature ID into the Hub Scan Tool.&lt;br /&gt;
+** If there are multiple Cosmic Signatures in the far system, you will have to scan down which one you came in through.&lt;br /&gt;
+** Highlight the signature in the Probe Scanner window, copy it (Ctrl-C), and then paste it (Ctrl-V) into the &amp;quot;Far System&#039;s Signature ID&amp;quot; field in the Hub Scan Tool.&amp;lt;br&amp;gt;[[File:Insig.png|400px]][[File:Insig2.png|400px]]&lt;br /&gt;
+&lt;br /&gt;
+* You&#039;ve just mapped your first signature!  Now, let&#039;s create some bookmarks to help share it with all of New Eden.&lt;br /&gt;
+&lt;br /&gt;
+==== Create the Far System &amp;quot;In Bookmark&amp;quot; ====&lt;br /&gt;
+Once all the fields in the Hub Scan Tool are filled in for the New Signature, &amp;quot;In bookmark&amp;quot; and &amp;quot;Out bookmark&amp;quot; labels will be generated by the tool.&amp;lt;br&amp;gt;[[File:InBM.png|800px]]&lt;br /&gt;
+[[File:OutBM.png|800px]]&lt;br /&gt;
+&lt;br /&gt;
+* Click the &amp;quot;In bookmark&amp;quot; label to copy it to your clipboard.&lt;br /&gt;
+* Right-click on the wormhole from your in-game Overview to save its exact location (&#039;&#039;&#039;this is important!&#039;&#039;&#039;).&lt;br /&gt;
+** Select &#039;Save Location...&#039;:&amp;lt;br&amp;gt;[[File:Savein.png|350px]]&lt;br /&gt;
+&lt;br /&gt;
+* A &amp;quot;New Location&amp;quot; window for your in-game bookmark will pop up:&lt;br /&gt;
+** Paste the &amp;quot;In Bookmark&amp;quot; into the Label field (Ctrl-V).&lt;br /&gt;
+** Make sure the folder is set to: &#039;&#039;&#039;Signal Cartel \\ Thera&#039;&#039;&#039;.&lt;br /&gt;
+** Set the Expire time to &amp;quot;Never&amp;quot; (2 days is also okay).&lt;br /&gt;
+** Click the &amp;quot;Submit&amp;quot; button.&lt;br /&gt;
+&lt;br /&gt;
+==== Create the Thera/Turnur-side &amp;quot;Out Bookmark&amp;quot; ==== &lt;br /&gt;
+* Jump back through the wormhole to Thera or Turnur.&lt;br /&gt;
+* In the Hub Scan Tool, click the &amp;quot;Out bookmark&amp;quot; label to copy it to your clipboard.&lt;br /&gt;
+* Repeat the exact same steps as above to bookmark the Thera/Turnur-side of the wormhole.&lt;br /&gt;
+** Remember to right-click on the wormhole from your in-game Overview to save its exact location (&#039;&#039;&#039;this is important!&#039;&#039;&#039;).&lt;br /&gt;
+* It should look like this:&amp;lt;br&amp;gt;[[File:Saveout.png|350px]]&lt;br /&gt;
+&lt;br /&gt;
+==== Submit the New Signature in the Hub Scan Tool ====&lt;br /&gt;
+* Submit the new signature to HST by clicking the tick on the rightmost column of the &amp;quot;Scan Signatures&amp;quot; table in the Hub Scan Tool.&lt;br /&gt;
+* This will automatically update Hub Scan Tool data into our [https://www.eve-scout.com/ EvE-Scout Wormhole Connections].&lt;br /&gt;
+&lt;br /&gt;
+=== Double-Check Yourself and Then Admire Your Work ===&lt;br /&gt;
+* After submitting your signatures, always double-check yourself:&lt;br /&gt;
+** Check your bookmarks using the Hub Scan Tool&lt;br /&gt;
+** Check [https://www.eve-scout.com/ EvE-Scout Wormhole Connections] to make sure your sigs were properly pushed to the website. Note: There may be a delay of up to 10 minutes before the sig shows on the website.&lt;br /&gt;
+* If everything is ok, please take a moment to bask in the glow of a job well done.  Congrats!  Now get on with the next sig because Thera and Turnur are ever-changing and mysterious places that you are now a part of!&lt;br /&gt;
+&lt;br /&gt;
+=== Feedback ===&lt;br /&gt;
+Comments, suggestions and questions are always welcome. Please post them here:&lt;br /&gt;
+* &amp;lt;code&amp;gt;[https://discord.com/channels/152437634927427584/757523687137083403 #mapping-lounge]&amp;lt;/code&amp;gt; Discord channel&lt;br /&gt;
+* &amp;lt;code&amp;gt;EvE-Scout.TheraMap&amp;lt;/code&amp;gt; In-game Hub Mapping Intel Channel&lt;br /&gt;
+&lt;br /&gt;
+== Scanning Guide In-Game Notepad Checklist == &lt;br /&gt;
+&lt;br /&gt;
+Notes to copy and paste into the in-game notepad.&lt;br /&gt;
+&lt;br /&gt;
+Tip: Click the handy-dandy copy button on the upper right of the code block to copy all the text!&lt;br /&gt;
+&lt;br /&gt;
+&#039;&#039;&#039;These notes are not automatically updated in-game. Please make sure you&#039;re always using the latest version!&#039;&#039;&#039;&lt;br /&gt;
+&lt;br /&gt;
+=== Thera and Turnur Scanning Guide Checklist (v1.0.0) === &lt;br /&gt;
+&amp;lt;pre&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;18&amp;quot; color=&amp;quot;#ffff0000&amp;quot;&amp;gt;&amp;lt;b&amp;gt;NOTE: This checklist does not replace reading the&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;18&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt; &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;18&amp;quot; color=&amp;quot;#ffffe400&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;https://wiki.signalcartel.space/Thera_and_Turnur_Scanning_Guide&amp;quot;&amp;gt;wiki&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;18&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt;Thera and Turnur Scanning Checklist &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;18&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;(v1.0.0)&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;1. &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt;Preparation&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;:&amp;lt;br&amp;gt;  - Be in &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff00ff00&amp;quot;&amp;gt;&amp;lt;b&amp;gt;Thera&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt; or &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff00ff00&amp;quot;&amp;gt;&amp;lt;b&amp;gt;Turnur&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt; &amp;lt;/b&amp;gt;and in &amp;lt;b&amp;gt;space&amp;lt;/b&amp;gt;.&amp;lt;br&amp;gt;  - Online the shared in-game bookmark folders:&amp;lt;br&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff00a99d&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;bookmarkFolder:10282750&amp;quot;&amp;gt;      Signal Cartel \\ Thera&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt; - New Bookmarks.&amp;lt;br&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff00a99d&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;bookmarkFolder:5883032&amp;quot;&amp;gt;      EVE-Scout \\ Thera&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt; - Our Public Folder.&amp;lt;br&amp;gt;  - Connect to  &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff6868e1&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;joinChannel:player_e9cecb0f2c4611edafcf9abe94f5a167&amp;quot;&amp;gt;EvE-Scout.TheraMap&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt; chat.&amp;lt;br&amp;gt;  - Open the &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ffffe400&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;https://scan.eve-scout.com&amp;quot;&amp;gt;Hub Scan Tool&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt; (&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt;HST&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;)&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2.&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt; Import Signatures Tab&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;:&amp;lt;br&amp;gt;  - Ensure Anomalies are filtered &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt;OUT&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt; of the &amp;lt;b&amp;gt;Probe Scanner Window&amp;lt;/b&amp;gt; (&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt;PSW&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;).&amp;lt;br&amp;gt;  - Copy all of the signatures from your &amp;lt;b&amp;gt;PSW&amp;lt;/b&amp;gt; and paste them into &amp;lt;b&amp;gt;HST&amp;lt;/b&amp;gt;.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;3. &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt;Scan Signatures Tab&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;:&amp;lt;br&amp;gt;  - The Tool will populate a table that cross-references with &amp;lt;b&amp;gt;PSW&amp;lt;/b&amp;gt; data.&amp;lt;br&amp;gt;  - &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt;Tip&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;: Set &amp;quot;Sort By&amp;quot; to Working order.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;4. &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt;Check and delete expired sigs&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;:&amp;lt;br&amp;gt;  - Confirm that the expired signature ID is not listed in &amp;lt;b&amp;gt;PSW&amp;lt;/b&amp;gt;.&amp;lt;br&amp;gt;  - Delete the expired signature.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;5. &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt;Claim, scan and record the first signature&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;:&amp;lt;br&amp;gt;  - Scan Down the Cosmic Signature and Warp to the WH.&amp;lt;br&amp;gt;  - Enter the Outgoing Type, and EOL state.&amp;lt;br&amp;gt;  - Jump into the WH then enter the Incoming Type.&amp;lt;br&amp;gt;  - The system name will be auto-populated but double check!&amp;lt;br&amp;gt;  - Scan and copy the Incoming WH Signature.&amp;lt;br&amp;gt;  - Create the Far System &amp;quot;In Bookmark&amp;quot;. Click the name in &amp;lt;b&amp;gt;HST&amp;lt;/b&amp;gt; to copy.&amp;lt;br&amp;gt;  - Jump back through to the Hub and create the Hub-side &amp;quot;Out Bookmark&amp;quot;.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;6. &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt;Submit the signature in HST&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;7. &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt;Double-Check Yourself:&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;  - Are the bookmarks &amp;lt;b&amp;gt;ON&amp;lt;/b&amp;gt; the wormhole, not the signature?&amp;lt;br&amp;gt;  - The bookmarks have the correct names (look in &amp;lt;b&amp;gt;HST&amp;lt;/b&amp;gt;) and not set to expire in 3 hours?&amp;lt;br&amp;gt;  - Import and check your bookmarks in HST, and report any inconsistencies in &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt;mapping-lounge&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;/pre&amp;gt;&lt;/div&gt;</summary>
+		<author><name>Esi Otomeya</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Thera_and_Turnur_Scanning_Guide&amp;diff=14242</id>
+		<title>Thera and Turnur Scanning Guide</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Thera_and_Turnur_Scanning_Guide&amp;diff=14242"/>
+		<updated>2024-01-25T00:18:56Z</updated>
+
+		<summary type="html">&lt;p&gt;Esi Otomeya: Making the use of Overview vs Probe windows more prominent and clear to avoid future mistakes (by me)&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;{{Template:TS|expanded=all}}&lt;br /&gt;
+&lt;br /&gt;
+The Thera and Turnur Scanning Guide is intended to explain how to keep our [https://www.eve-scout.com/ EvE-Scout Wormhole Connections] website up-to-date using the [https://scan.eve-scout.com/ Hub Scan Tool].&lt;br /&gt;
+&lt;br /&gt;
+== Overview ==&lt;br /&gt;
+# Join the in-game &amp;lt;code&amp;gt;EvE-Scout.TheraMap&amp;lt;/code&amp;gt; chat channel. This channel is for Thera and Turnur mapping communications.&lt;br /&gt;
+# Log in your pilot [https://scan.eve-scout.com/ Hub Scan Tool].&lt;br /&gt;
+# Use the [https://scan.eve-scout.com/ Hub Scan Tool] to check the status of signatures in Thera or Turnur.&lt;br /&gt;
+## Clear any expired signatures in the [https://scan.eve-scout.com/ Hub Scan Tool].&lt;br /&gt;
+## Map any new signatures using the [https://scan.eve-scout.com/ Hub Scan Tool] and save the bookmarks to the in-game &amp;lt;code&amp;gt;Signal Cartel \\ Thera&amp;lt;/code&amp;gt; folder.&lt;br /&gt;
+# Have questions?  Ask away in the &amp;lt;code&amp;gt;[https://discord.com/channels/152437634927427584/757523687137083403 #mapping-lounge]&amp;lt;/code&amp;gt; Discord channel or in-game &amp;lt;code&amp;gt;EvE-Scout.TheraMap&amp;lt;/code&amp;gt; intel channel.&lt;br /&gt;
+# After you have added 5 or more Thera or Turnur wormholes to the [https://www.eve-scout.com/ EvE-Scout Wormhole Connections] website, claim your free fitted covert ops ship by [https://discord.com/channels/152437634927427584/1135167433754300506 &#039;&#039;&#039;clicking here&#039;&#039;&#039;]!  Program is courtesy of [https://evewho.com/character/2114254786 Tekufah] (Thera) and [https://evewho.com/character/2119295977 Samari Arila Enaka] (Turnur).&lt;br /&gt;
+&lt;br /&gt;
+== Tools of the Trade ==&lt;br /&gt;
+&lt;br /&gt;
+=== Hub Scan Tool ===&lt;br /&gt;
+* The [https://scan.eve-scout.com/ Hub Scan Tool] is a web-based program that helps to coordinate, simplify and speed up the process of scanning and recording Thera and Turnur signatures, while reducing typing errors. The tool makes it quick to see what signatures are expired or new, co-ordinates work between pilots, and maintains the list of signatures published on our public [https://www.eve-scout.com/ EvE-Scout Wormhole Connections] page.&lt;br /&gt;
+&lt;br /&gt;
+* These tools were created as a gift to Signal Cartel by the Engineering Team:&lt;br /&gt;
+** API&lt;br /&gt;
+*** [https://evewho.com/character/96293852 Sky Diamond] - main devloper of the API and overall project lead&lt;br /&gt;
+*** [https://evewho.com/character/2121390498 Ezra Cyrix] - unit test developer and helpful listener to Sky&#039;s ramblings&lt;br /&gt;
+*** [https://evewho.com/character/93087261 Kamja Seas] - jumped at the opportunity to support with a data validation script&lt;br /&gt;
+*** [https://evewho.com/character/2120621292 Millener Audeles] - advisor with general architecture and other dev exchange&lt;br /&gt;
+*** [https://evewho.com/character/2119526651 Okamainen al&#039;Anzomi] - major developer of the authentication part, general architecture, unit test developer and lots more&lt;br /&gt;
+*** [https://evewho.com/character/2114254786 Tekufah] - advisor about all the in-game details where Sky has no clue and testing the routing algorithm&lt;br /&gt;
+*** [https://evewho.com/character/2116458565 Vega Blazar] - editing, proofreading, and and documentation&lt;br /&gt;
+** Hub Scan Tool (HST)&lt;br /&gt;
+*** [https://evewho.com/character/2113781815 Mzsbi Haev]&lt;br /&gt;
+** Public Website www.eve-scout.com&lt;br /&gt;
+*** [https://evewho.com/character/2119295977 Samari Arila Enaka]&lt;br /&gt;
+&lt;br /&gt;
+== Thera and Turnur Scanning Instructions ==&lt;br /&gt;
+&lt;br /&gt;
+=== Preparation ===&lt;br /&gt;
+* Be in Thera or Turnur, undocked, and preferably cloaked at a safe in the scanning ship of your choice.&lt;br /&gt;
+* Join the &amp;lt;code&amp;gt;EvE-Scout.TheraMap&amp;lt;/code&amp;gt; chat channel.&lt;br /&gt;
+* Online the shared in-game bookmark folders:&lt;br /&gt;
+** &amp;lt;code&amp;gt;Signal Cartel \\ Thera&amp;lt;/code&amp;gt;: this is our private folder. Put your bookmarks here!&lt;br /&gt;
+** &amp;lt;code&amp;gt;EVE-Scout \\ Thera&amp;lt;/code&amp;gt;: this is our public folder. Only Bookmark Managers have write permission.&lt;br /&gt;
+** Links are given in the Alliance and Intel Channel chat MOTDs.&lt;br /&gt;
+* Open the [https://scan.eve-scout.com/ Hub Scan Tool] and log in your pilot.&lt;br /&gt;
+* Check the Hub Selector is set correctly:&amp;lt;br&amp;gt;[[File:Slide.png]]&lt;br /&gt;
+&lt;br /&gt;
+=== Assess the Status of the Current Thera or Turnur Map Using the Hub Scan Tool ===&lt;br /&gt;
+Import the current lists of Thera/Turnur signatures from your Probe Scanner window into the Hub Scan Tool. See the instructions in the tool for more information.&lt;br /&gt;
+&lt;br /&gt;
+==== Import Signatures Tab ====&lt;br /&gt;
+* Copy all of the Cosmic Signatures from your Probe Scanner window (you need to filter out all anomalies in your Probe Scanner window first) and paste them here (Ctrl-A, Ctrl-C, Ctrl-V), then click the Update button to start mapping. If a new signature appears in your Probe Scanner later, copy and paste just that one into the import tab then Update to add it.&amp;lt;br&amp;gt;[[File:Import.png|600px]]&lt;br /&gt;
+&lt;br /&gt;
+==== Scan Signatures Tab ====&lt;br /&gt;
+* The &amp;quot;Scan Signatures&amp;quot; tab in the Hub Scan Tool will populate a table that cross-references with Probe Scanner data:&lt;br /&gt;
+** Expired signatures are highlighted in orange,&lt;br /&gt;
+** New signatures are highlighted in blue:&amp;lt;br&amp;gt;[[File:Blue.png|600px]][[File:Orange.png|600px]]&lt;br /&gt;
+&lt;br /&gt;
+=== Clear the Expired Signatures ===&lt;br /&gt;
+While it may seem counterintuitive at first, clearing expired signatures (highlighted in orange) should be prioritized over mapping new signatures.  This is because capsuleers will plan their routes based on potentially dated information and non-existent wormhole connections.  So clear those expired sigs!&lt;br /&gt;
+&lt;br /&gt;
+* Tip: There is a &#039;Sort by: working order&#039; option under the signatures list. If you select this, the signatures will sort into working order.&amp;lt;br&amp;gt;[[File:HST Sort order options.png]]&lt;br /&gt;
+&lt;br /&gt;
+==== Confirm the Signature is Expired In-game ====&lt;br /&gt;
+* Open the in-game Probe Scanner window and confirm that the expired signature ID is not listed.&lt;br /&gt;
+&lt;br /&gt;
+==== Delete the Expired Signature from Hub Scan Tool ====&lt;br /&gt;
+* By selecting trash icon:&amp;lt;br&amp;gt;[[File:trash.png]]&lt;br /&gt;
+&lt;br /&gt;
+* The new tool will update almost instantly for all users.&lt;br /&gt;
+&lt;br /&gt;
+=== Map the New Signatures ===&lt;br /&gt;
+New signatures need to be scanned down, mapped, and then added to Hub Scan Tool. Using the Tool to help manage your workflow, you will work from left to right for each New Signature highlighted in blue on the &amp;quot;Scan Signatures&amp;quot; table.&lt;br /&gt;
+* By clicking on the pen icon you automatically claim the signature (if another mapper will try to click on the sig you&#039;re working on, an alert will pop up on their Tool denoting the sig has been claimed by your pilot).&lt;br /&gt;
+&lt;br /&gt;
+==== Scan Down the Cosmic Signature ====&lt;br /&gt;
+* Scan down the signature and assuming it&#039;s a wormhole, you&#039;re in business! &lt;br /&gt;
+** If it&#039;s a combat, data, relic or gas site enter its type in the Tool, save it, and move on to the next signature.&lt;br /&gt;
+&lt;br /&gt;
+&#039;&#039;NOTE:&#039;&#039;  Teaching proper scanning techniques is beyond the scope of this guide. To learn more about scanning down Cosmic Signatures please see our Explorer&#039;s Handbook [[Scanning]] page.&lt;br /&gt;
+&lt;br /&gt;
+==== Map the Signature ====&lt;br /&gt;
+You will use the Hub Scan Tool to expedite your workflow moving from left to right along the row.&lt;br /&gt;
+&lt;br /&gt;
+===== Enter the Outgoing Thera/Turnur-side Wormhole Type =====&lt;br /&gt;
+* Warp to the wormhole.&lt;br /&gt;
+** Once you are on grid with the wormhole, look for it&#039;s [https://wiki.eveuniversity.org/Wormhole_attributes type] on your in-game Overview.  If it&#039;s not &#039;K162&#039;, enter it into the Type column of the Hub Scan Tool. For K162 you may just tab to the next field as this will be auto-populated.&amp;lt;br&amp;gt;[[File:WH out.png|600px]][[File:WH out type.png]]&lt;br /&gt;
+** Also, right click on the wormhole and select the &amp;quot;Show Info&amp;quot; option to discover if the wormhole&#039;s lifetime is end-of-life (the info will show “reaching the end of its natural lifetime”).  Fill the dedicated tick in Hub Scan Tool if the WH is EOL (end of life).&lt;br /&gt;
+&lt;br /&gt;
+===== Enter the Incoming Wormhole Type and Destination System =====&lt;br /&gt;
+* Jump through the wormhole (assuming it&#039;s safe).&lt;br /&gt;
+* Enter the incoming wormhole&#039;s type (if it&#039;s k162, it will be auto-populated).&lt;br /&gt;
+* Confirm the far system&#039;s name into the Hub Scan Tool (it will auto-detect via the ESI):&amp;lt;br&amp;gt;[[File:Farinfomod2.png]]&lt;br /&gt;
+&lt;br /&gt;
+===== Enter the Incoming Wormhole Signature =====&lt;br /&gt;
+* Enter the incoming wormhole&#039;s signature in the Far System&#039;s Signature ID into the Hub Scan Tool.&lt;br /&gt;
+** If there are multiple Cosmic Signatures in the far system, you will have to scan down which one you came in through.&lt;br /&gt;
+** Highlight the signature in the Probe Scanner window, copy it (Ctrl-C), and then paste it (Ctrl-V) into the &amp;quot;Far System&#039;s Signature ID&amp;quot; field in the Hub Scan Tool.&amp;lt;br&amp;gt;[[File:Insig.png|400px]][[File:Insig2.png|400px]]&lt;br /&gt;
+&lt;br /&gt;
+* You&#039;ve just mapped your first signature!  Now, let&#039;s create some bookmarks to help share it with all of New Eden.&lt;br /&gt;
+&lt;br /&gt;
+==== Create the Far System &amp;quot;In Bookmark&amp;quot; ====&lt;br /&gt;
+Once all the fields in the Hub Scan Tool are filled in for the New Signature, &amp;quot;In bookmark&amp;quot; and &amp;quot;Out bookmark&amp;quot; labels will be generated by the tool.&amp;lt;br&amp;gt;[[File:InBM.png|800px]]&lt;br /&gt;
+[[File:OutBM.png|800px]]&lt;br /&gt;
+&lt;br /&gt;
+* Click the &amp;quot;In bookmark&amp;quot; label to copy it to your clipboard.&lt;br /&gt;
+* Right-click on the wormhole from your in-game &#039;&#039;&#039;Overview&#039;&#039;&#039; (&#039;&#039;&#039;not&#039;&#039;&#039; the Probe window) to save its exact location (&#039;&#039;&#039;this is important!&#039;&#039;&#039;)&lt;br /&gt;
+** If you save from the Probe window, the bookmark will not be at 0km from the wormhole, putting pilots at risk of being attacked.&lt;br /&gt;
+** Select &#039;Save Location...&#039;:&amp;lt;br&amp;gt;[[File:Savein.png|350px]]&lt;br /&gt;
+&lt;br /&gt;
+* A &amp;quot;New Location&amp;quot; window for your in-game bookmark will pop up:&lt;br /&gt;
+** Paste the &amp;quot;In Bookmark&amp;quot; into the Label field (Ctrl-V).&lt;br /&gt;
+** Make sure the folder is set to: &#039;&#039;&#039;Signal Cartel \\ Thera&#039;&#039;&#039;.&lt;br /&gt;
+** Set the Expire time to &amp;quot;Never&amp;quot; (2 days is also okay).&lt;br /&gt;
+** Click the &amp;quot;Submit&amp;quot; button.&lt;br /&gt;
+&lt;br /&gt;
+==== Create the Thera/Turnur-side &amp;quot;Out Bookmark&amp;quot; ==== &lt;br /&gt;
+* Jump back through the wormhole to Thera or Turnur.&lt;br /&gt;
+* In the Hub Scan Tool, click the &amp;quot;Out bookmark&amp;quot; label to copy it to your clipboard.&lt;br /&gt;
+* Repeat the exact same steps as above to bookmark the Thera/Turnur-side of the wormhole.&lt;br /&gt;
+** Remember to right-click on the wormhole from your in-game Overview to save its exact location (&#039;&#039;&#039;this is important!&#039;&#039;&#039;).&lt;br /&gt;
+* It should look like this:&amp;lt;br&amp;gt;[[File:Saveout.png|350px]]&lt;br /&gt;
+&lt;br /&gt;
+==== Submit the New Signature in the Hub Scan Tool ====&lt;br /&gt;
+* Submit the new signature to HST by clicking the tick on the rightmost column of the &amp;quot;Scan Signatures&amp;quot; table in the Hub Scan Tool.&lt;br /&gt;
+* This will automatically update Hub Scan Tool data into our [https://www.eve-scout.com/ EvE-Scout Wormhole Connections].&lt;br /&gt;
+&lt;br /&gt;
+=== Double-Check Yourself and Then Admire Your Work ===&lt;br /&gt;
+* After submitting your signatures, always double-check yourself:&lt;br /&gt;
+** Check your bookmarks using the Hub Scan Tool&lt;br /&gt;
+** Check [https://www.eve-scout.com/ EvE-Scout Wormhole Connections] to make sure your sigs were properly pushed to the website. Note: There may be a delay of up to 10 minutes before the sig shows on the website.&lt;br /&gt;
+* If everything is ok, please take a moment to bask in the glow of a job well done.  Congrats!  Now get on with the next sig because Thera and Turnur are ever-changing and mysterious places that you are now a part of!&lt;br /&gt;
+&lt;br /&gt;
+=== Feedback ===&lt;br /&gt;
+Comments, suggestions and questions are always welcome. Please post them here:&lt;br /&gt;
+* &amp;lt;code&amp;gt;[https://discord.com/channels/152437634927427584/757523687137083403 #mapping-lounge]&amp;lt;/code&amp;gt; Discord channel&lt;br /&gt;
+* &amp;lt;code&amp;gt;EvE-Scout.TheraMap&amp;lt;/code&amp;gt; In-game Hub Mapping Intel Channel&lt;br /&gt;
+&lt;br /&gt;
+== Scanning Guide In-Game Notepad Checklist == &lt;br /&gt;
+&lt;br /&gt;
+Notes to copy and paste into the in-game notepad.&lt;br /&gt;
+&lt;br /&gt;
+Tip: Click the handy-dandy copy button on the upper right of the code block to copy all the text!&lt;br /&gt;
+&lt;br /&gt;
+&#039;&#039;&#039;These notes are not automatically updated in-game. Please make sure you&#039;re always using the latest version!&#039;&#039;&#039;&lt;br /&gt;
+&lt;br /&gt;
+=== Thera and Turnur Scanning Guide Checklist (v1.0.0) === &lt;br /&gt;
+&amp;lt;pre&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;18&amp;quot; color=&amp;quot;#ffff0000&amp;quot;&amp;gt;&amp;lt;b&amp;gt;NOTE: This checklist does not replace reading the&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;18&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt; &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;18&amp;quot; color=&amp;quot;#ffffe400&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;https://wiki.signalcartel.space/Thera_and_Turnur_Scanning_Guide&amp;quot;&amp;gt;wiki&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;18&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt;Thera and Turnur Scanning Checklist &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;18&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;(v1.0.0)&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;1. &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt;Preparation&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;:&amp;lt;br&amp;gt;  - Be in &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff00ff00&amp;quot;&amp;gt;&amp;lt;b&amp;gt;Thera&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt; or &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff00ff00&amp;quot;&amp;gt;&amp;lt;b&amp;gt;Turnur&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt; &amp;lt;/b&amp;gt;and in &amp;lt;b&amp;gt;space&amp;lt;/b&amp;gt;.&amp;lt;br&amp;gt;  - Online the shared in-game bookmark folders:&amp;lt;br&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff00a99d&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;bookmarkFolder:10282750&amp;quot;&amp;gt;      Signal Cartel \\ Thera&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt; - New Bookmarks.&amp;lt;br&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff00a99d&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;bookmarkFolder:5883032&amp;quot;&amp;gt;      EVE-Scout \\ Thera&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt; - Our Public Folder.&amp;lt;br&amp;gt;  - Connect to  &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff6868e1&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;joinChannel:player_e9cecb0f2c4611edafcf9abe94f5a167&amp;quot;&amp;gt;EvE-Scout.TheraMap&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt; chat.&amp;lt;br&amp;gt;  - Open the &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ffffe400&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;https://scan.eve-scout.com&amp;quot;&amp;gt;Hub Scan Tool&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt; (&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt;HST&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;)&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2.&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt; Import Signatures Tab&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;:&amp;lt;br&amp;gt;  - Ensure Anomalies are filtered &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt;OUT&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt; of the &amp;lt;b&amp;gt;Probe Scanner Window&amp;lt;/b&amp;gt; (&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt;PSW&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;).&amp;lt;br&amp;gt;  - Copy all of the signatures from your &amp;lt;b&amp;gt;PSW&amp;lt;/b&amp;gt; and paste them into &amp;lt;b&amp;gt;HST&amp;lt;/b&amp;gt;.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;3. &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt;Scan Signatures Tab&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;:&amp;lt;br&amp;gt;  - The Tool will populate a table that cross-references with &amp;lt;b&amp;gt;PSW&amp;lt;/b&amp;gt; data.&amp;lt;br&amp;gt;  - &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt;Tip&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;: Set &amp;quot;Sort By&amp;quot; to Working order.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;4. &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt;Check and delete expired sigs&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;:&amp;lt;br&amp;gt;  - Confirm that the expired signature ID is not listed in &amp;lt;b&amp;gt;PSW&amp;lt;/b&amp;gt;.&amp;lt;br&amp;gt;  - Delete the expired signature.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;5. &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt;Claim, scan and record the first signature&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;:&amp;lt;br&amp;gt;  - Scan Down the Cosmic Signature and Warp to the WH.&amp;lt;br&amp;gt;  - Enter the Outgoing Type, and EOL state.&amp;lt;br&amp;gt;  - Jump into the WH then enter the Incoming Type.&amp;lt;br&amp;gt;  - The system name will be auto-populated but double check!&amp;lt;br&amp;gt;  - Scan and copy the Incoming WH Signature.&amp;lt;br&amp;gt;  - Create the Far System &amp;quot;In Bookmark&amp;quot;. Click the name in &amp;lt;b&amp;gt;HST&amp;lt;/b&amp;gt; to copy.&amp;lt;br&amp;gt;  - Jump back through to the Hub and create the Hub-side &amp;quot;Out Bookmark&amp;quot;.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;6. &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt;Submit the signature in HST&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;7. &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt;Double-Check Yourself:&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#bfffffff&amp;quot;&amp;gt;  - Are the bookmarks &amp;lt;b&amp;gt;ON&amp;lt;/b&amp;gt; the wormhole, not the signature?&amp;lt;br&amp;gt;  - The bookmarks have the correct names (look in &amp;lt;b&amp;gt;HST&amp;lt;/b&amp;gt;) and not set to expire in 3 hours?&amp;lt;br&amp;gt;  - Import and check your bookmarks in HST, and report any inconsistencies in &amp;lt;/font&amp;gt;&amp;lt;font size=&amp;quot;14&amp;quot; color=&amp;quot;#ff007fff&amp;quot;&amp;gt;&amp;lt;b&amp;gt;mapping-lounge&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;/pre&amp;gt;&lt;/div&gt;</summary>
+		<author><name>Esi Otomeya</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=User:Esi_Otomeya&amp;diff=14228</id>
+		<title>User:Esi Otomeya</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=User:Esi_Otomeya&amp;diff=14228"/>
+		<updated>2024-01-24T08:27:08Z</updated>
+
+		<summary type="html">&lt;p&gt;Esi Otomeya: Missions&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;== &amp;quot;Missions&amp;quot; ==&lt;br /&gt;
+&lt;br /&gt;
+Here are my &amp;quot;missions&amp;quot; for each of the (applicable) services and organisations inside of SC.&lt;br /&gt;
+&lt;br /&gt;
+=== EvE-Scout Rescue (ESR) ===&lt;br /&gt;
+&lt;br /&gt;
+# Tender 10 caches&lt;br /&gt;
+# Sow 3 caches (if possible)&lt;br /&gt;
+&lt;br /&gt;
+=== Thera and Turnur Scanning (TS) ===&lt;br /&gt;
+&lt;br /&gt;
+# Learn to find and enter Thera&lt;br /&gt;
+# Learn to find and enter Turner&lt;br /&gt;
+# Use Thera to shortcut Ahbazon&lt;br /&gt;
+# Use Turnur to shortcut Ahbazon&lt;br /&gt;
+&lt;br /&gt;
+== Entering a System ==&lt;br /&gt;
+&lt;br /&gt;
+The the moment I &amp;quot;pop&amp;quot; a wormhole (WH), I do the following:&lt;br /&gt;
+&lt;br /&gt;
+# Bookmark the wormhole I came through as &amp;quot;&amp;lt; Wormhole&amp;quot; (see below)&lt;br /&gt;
+# Find a planet or moon as many AU away as I can get&lt;br /&gt;
+# I warp to the moon or planet, but I get no closer than 50km, BUT...&lt;br /&gt;
+# I also activate my cloak after I initiate warp, AND I launch my probes&lt;br /&gt;
+# I load up the system map and I move my probes off the system grid and then press &amp;quot;B&amp;quot; (so they warp and scan)&lt;br /&gt;
+# I then load up the shared bookmarks and find the cache&lt;br /&gt;
+# I warp to the cache 20-30km away&lt;br /&gt;
+# If it&#039;s safe, I tend or sow it&lt;br /&gt;
+# I then fly away again, to a moon/planet, and bounce around to make a safe spot&lt;br /&gt;
+## I bookmark the safe spot &amp;quot;! SAFE SPOT 001&amp;quot;&lt;br /&gt;
+# I now reload the system map and move my probes as needed, scanning down WHs and sites&lt;br /&gt;
+&lt;br /&gt;
+== Bookmarks ==&lt;br /&gt;
+&lt;br /&gt;
+When entering a system, I begin scanning for stuff... obviously. When I find it, I bookmark it like everyone, but I have a few ideas around _how_ I bookmark the things I find:&lt;br /&gt;
+&lt;br /&gt;
+* &amp;quot;&amp;lt; Wormhole&amp;quot;: the wormhole I came through to get to this system, so `&amp;lt;` basically meaning &amp;quot;the way back&amp;quot;&lt;br /&gt;
+* &amp;quot;&amp;gt; &amp;quot;: the wormhole I went through when leaving the system. I use this for when/if I come back, so I know where I just was... yeah...&lt;br /&gt;
+* &amp;quot;? &amp;quot;: a wormhole with an unknown destination or some other &amp;quot;thing&amp;quot; I don&#039;t know about&lt;br /&gt;
+* &amp;quot;! &amp;quot;: a safe spot. The use of &amp;quot;!&amp;quot; moves the item to the top of the list&lt;br /&gt;
+* &amp;quot;- &amp;quot;: a site I cannot tank/DPS because the NPCs are too tough (C4+ sites)&lt;br /&gt;
+* &amp;quot;+ &amp;quot;: a site I can take on (hack), and I will eventually&lt;br /&gt;
+* &amp;quot;$ &amp;quot;: a successfully farmed site&lt;/div&gt;</summary>
+		<author><name>Esi Otomeya</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=User:Esi_Otomeya&amp;diff=14225</id>
+		<title>User:Esi Otomeya</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=User:Esi_Otomeya&amp;diff=14225"/>
+		<updated>2024-01-23T13:12:21Z</updated>
+
+		<summary type="html">&lt;p&gt;Esi Otomeya: Getting the ball rolling.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;== Entering a System ==&lt;br /&gt;
+&lt;br /&gt;
+The the moment I &amp;quot;pop&amp;quot; a wormhole (WH), I do the following:&lt;br /&gt;
+&lt;br /&gt;
+# Bookmark the wormhole I came through as &amp;quot;&amp;lt; Wormhole&amp;quot; (see below)&lt;br /&gt;
+# Find a planet or moon as many AU away as I can get&lt;br /&gt;
+# I warp to the moon or planet, but I get no closer than 50km, BUT...&lt;br /&gt;
+# I also activate my cloak after I initiate warp, AND I launch my probes&lt;br /&gt;
+# I load up the system map and I move my probes off the system grid and then press &amp;quot;B&amp;quot; (so they warp and scan)&lt;br /&gt;
+# I then load up the shared bookmarks and find the cache&lt;br /&gt;
+# I warp to the cache 20-30km away&lt;br /&gt;
+# If it&#039;s safe, I tend or sow it&lt;br /&gt;
+# I then fly away again, to a moon/planet, and bounce around to make a safe spot&lt;br /&gt;
+## I bookmark the safe spot &amp;quot;! SAFE SPOT 001&amp;quot;&lt;br /&gt;
+# I now reload the system map and move my probes as needed, scanning down WHs and sites&lt;br /&gt;
+&lt;br /&gt;
+== Bookmarks ==&lt;br /&gt;
+&lt;br /&gt;
+When entering a system, I begin scanning for stuff... obviously. When I find it, I bookmark it like everyone, but I have a few ideas around _how_ I bookmark the things I find:&lt;br /&gt;
+&lt;br /&gt;
+* &amp;quot;&amp;lt; Wormhole&amp;quot;: the wormhole I came through to get to this system, so `&amp;lt;` basically meaning &amp;quot;the way back&amp;quot;&lt;br /&gt;
+* &amp;quot;&amp;gt; &amp;quot;: the wormhole I went through when leaving the system. I use this for when/if I come back, so I know where I just was... yeah...&lt;br /&gt;
+* &amp;quot;? &amp;quot;: a wormhole with an unknown destination or some other &amp;quot;thing&amp;quot; I don&#039;t know about&lt;br /&gt;
+* &amp;quot;! &amp;quot;: a safe spot. The use of &amp;quot;!&amp;quot; moves the item to the top of the list&lt;br /&gt;
+* &amp;quot;- &amp;quot;: a site I cannot tank/DPS because the NPCs are too tough (C4+ sites)&lt;br /&gt;
+* &amp;quot;+ &amp;quot;: a site I can take on (hack), and I will eventually&lt;br /&gt;
+* &amp;quot;$ &amp;quot;: a successfully farmed site&lt;/div&gt;</summary>
+		<author><name>Esi Otomeya</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=User:Esi_Otomeya&amp;diff=14158</id>
+		<title>User:Esi Otomeya</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=User:Esi_Otomeya&amp;diff=14158"/>
+		<updated>2024-01-23T01:43:47Z</updated>
+
+		<summary type="html">&lt;p&gt;Esi Otomeya: Created page with &amp;quot;Nothing here yet. Soon though, sooooooon.&amp;quot;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;Nothing here yet. Soon though, sooooooon.&lt;/div&gt;</summary>
+		<author><name>Esi Otomeya</name></author>
+	</entry>
+</feed>

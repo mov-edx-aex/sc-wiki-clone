@@ -1,0 +1,267 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB">
+	<id>https://wiki.signalcartel.space/api.php?hidebots=1&amp;hideminor=1&amp;urlversion=1&amp;days=7&amp;limit=50&amp;action=feedrecentchanges&amp;feedformat=atom</id>
+	<title>The Explorer&#039;s Compendium  - Recent changes [en-gb]</title>
+	<link rel="self" type="application/atom+xml" href="https://wiki.signalcartel.space/api.php?hidebots=1&amp;hideminor=1&amp;urlversion=1&amp;days=7&amp;limit=50&amp;action=feedrecentchanges&amp;feedformat=atom"/>
+	<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/Special:RecentChanges"/>
+	<updated>2024-01-26T13:42:55Z</updated>
+	<subtitle>Track the most recent changes to the wiki in this feed.</subtitle>
+	<generator>MediaWiki 1.40.1</generator>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Navigating_New_Eden&amp;diff=14261&amp;oldid=14246</id>
+		<title>Navigating New Eden</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Navigating_New_Eden&amp;diff=14261&amp;oldid=14246"/>
+		<updated>2024-01-26T08:53:42Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span dir=&quot;auto&quot;&gt;&lt;span class=&quot;autocomment&quot;&gt;Choosing a Region&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vendres Olo</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Public:Orientation_Guide_-_First_24_Hours&amp;diff=14259&amp;oldid=14173</id>
+		<title>Public:Orientation Guide - First 24 Hours</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Public:Orientation_Guide_-_First_24_Hours&amp;diff=14259&amp;oldid=14173"/>
+		<updated>2024-01-26T05:59:03Z</updated>
+
+		<summary type="html">&lt;p&gt;revised intro text to make it more friendly and welcoming&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en-GB&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 05:59, 26 January 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l3&quot;&gt;Line 3:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 3:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;big&amp;gt;&amp;#039;&amp;#039;&amp;#039;Hello and Welcome to Signal Cartel!&amp;#039;&amp;#039;&amp;#039;&amp;lt;/big&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;big&amp;gt;&amp;#039;&amp;#039;&amp;#039;Hello and Welcome to Signal Cartel!&amp;#039;&amp;#039;&amp;#039;&amp;lt;/big&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br/&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;The &#039;&#039;&#039;Signal Cartel New Member Orientation Guide&#039;&#039;&#039; is designed to help you get started on your journey as a “Signaleer”, our affectionate name for a Signal Cartel capsuleer. It provides critical information on our policies, communication channels, apps, services, and divisions within the corp. If you are new to EVE, we have a number of resources available to help you develop the skills and knowledge to successfully explore New Eden. We regularly hold talks and classes on many aspects of the game that are designed for new and experienced pilots alike.&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;The &#039;&#039;&#039;Signal Cartel New Member Orientation Guide&#039;&#039;&#039; is designed to help you get started on your journey as a “Signaleer”, our affectionate name for a Signal Cartel capsuleer. It provides critical information on our policies, communication channels, apps, services, and divisions within the corp. If you are new to EVE, we have a number of resources available to help you develop the skills and knowledge to successfully explore New Eden. We regularly hold talks and classes on many aspects of the game that are designed for new and experienced pilots alike&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;. Our aim is to provide a welcoming and supportive environment for all explorers.&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-side-deleted&quot;&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt; &lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-side-deleted&quot;&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;The format of the Orientation Guide has been conveniently divided into sections that correspond to your time in the corp. Our intent with this approach is to slowly ease you into our corp life and culture while making it as informative and fun as possible. Let&#039;s get started..&lt;/ins&gt;.&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br/&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;  Please note that Signal Cartel utilizes EVE Online to verify your identity and corp membership.  For possibly the first 24 hours* after you join us, you may be unable to access our non-public/protected corp systems and assets.  Read below for more info regarding this topic.&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;  Please note that Signal Cartel utilizes EVE Online to verify your identity and corp membership.  For possibly the first 24 hours* after you join us, you may be unable to access our non-public/protected corp systems and assets.  Read below for more info regarding this topic.&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=User:Vega_Blazar/Notepad&amp;diff=14258&amp;oldid=14176</id>
+		<title>User:Vega Blazar/Notepad</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=User:Vega_Blazar/Notepad&amp;diff=14258&amp;oldid=14176"/>
+		<updated>2024-01-26T05:49:52Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=ENG:Signal_Cartel%27s_Little_Helper&amp;diff=14257&amp;oldid=3807</id>
+		<title>ENG:Signal Cartel&#039;s Little Helper</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=ENG:Signal_Cartel%27s_Little_Helper&amp;diff=14257&amp;oldid=3807"/>
+		<updated>2024-01-26T04:49:25Z</updated>
+
+		<summary type="html">&lt;p&gt;add banner about SCLH status&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Scan_Club&amp;diff=14256&amp;oldid=13876</id>
+		<title>Scan Club</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Scan_Club&amp;diff=14256&amp;oldid=13876"/>
+		<updated>2024-01-26T04:16:05Z</updated>
+
+		<summary type="html">&lt;p&gt;added Ddado to the Member Roll :)&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=How_to_Nominate_Members_for_Medals&amp;diff=14254&amp;oldid=14134</id>
+		<title>How to Nominate Members for Medals</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=How_to_Nominate_Members_for_Medals&amp;diff=14254&amp;oldid=14134"/>
+		<updated>2024-01-26T03:42:29Z</updated>
+
+		<summary type="html">&lt;p&gt;light formatting edits&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Medals_and_Decorations&amp;diff=14253&amp;oldid=14213</id>
+		<title>Medals and Decorations</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Medals_and_Decorations&amp;diff=14253&amp;oldid=14213"/>
+		<updated>2024-01-26T03:18:40Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span dir=&quot;auto&quot;&gt;&lt;span class=&quot;autocomment&quot;&gt;Division Medals&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=File:Public_Medals_with_Steps.png&amp;diff=14247&amp;oldid=0</id>
+		<title>File:Public Medals with Steps.png</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=File:Public_Medals_with_Steps.png&amp;diff=14247&amp;oldid=0"/>
+		<updated>2024-01-25T22:21:16Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/User:Vega_Blazar&quot; class=&quot;mw-userlink&quot; title=&quot;User:Vega Blazar&quot;&gt;&lt;bdi&gt;Vega Blazar&lt;/bdi&gt;&lt;/a&gt; uploaded &lt;a href=&quot;/File:Public_Medals_with_Steps.png&quot; title=&quot;File:Public Medals with Steps.png&quot;&gt;File:Public Medals with Steps.png&lt;/a&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Navigating_New_Eden&amp;diff=14246&amp;oldid=14241</id>
+		<title>Navigating New Eden</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Navigating_New_Eden&amp;diff=14246&amp;oldid=14241"/>
+		<updated>2024-01-25T21:04:45Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span dir=&quot;auto&quot;&gt;&lt;span class=&quot;autocomment&quot;&gt;Wormhole Types&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vendres Olo</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=How_to_Create_a_Fleet_Announcement&amp;diff=14244&amp;oldid=9322</id>
+		<title>How to Create a Fleet Announcement</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=How_to_Create_a_Fleet_Announcement&amp;diff=14244&amp;oldid=9322"/>
+		<updated>2024-01-25T03:18:09Z</updated>
+
+		<summary type="html">&lt;p&gt;clarified need to remove brackets&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Thera_and_Turnur_Scanning_Guide&amp;diff=14243&amp;oldid=14242</id>
+		<title>Thera and Turnur Scanning Guide</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Thera_and_Turnur_Scanning_Guide&amp;diff=14243&amp;oldid=14242"/>
+		<updated>2024-01-25T02:12:04Z</updated>
+
+		<summary type="html">&lt;p&gt;Undo revision 14242 by &lt;a href=&quot;/Special:Contributions/Esi_Otomeya&quot; title=&quot;Special:Contributions/Esi Otomeya&quot;&gt;Esi Otomeya&lt;/a&gt; (&lt;a href=&quot;/index.php?title=User_talk:Esi_Otomeya&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new&quot; title=&quot;User talk:Esi Otomeya (page does not exist)&quot;&gt;talk&lt;/a&gt;)&lt;/p&gt;
+</summary>
+		<author><name>Esi Otomeya</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Navigating_New_Eden&amp;diff=14241&amp;oldid=14202</id>
+		<title>Navigating New Eden</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Navigating_New_Eden&amp;diff=14241&amp;oldid=14202"/>
+		<updated>2024-01-24T14:21:03Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span dir=&quot;auto&quot;&gt;&lt;span class=&quot;autocomment&quot;&gt;Pochven&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vendres Olo</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=The_Explorer%27s_Handbook&amp;diff=14230&amp;oldid=13939</id>
+		<title>The Explorer&#039;s Handbook</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=The_Explorer%27s_Handbook&amp;diff=14230&amp;oldid=13939"/>
+		<updated>2024-01-24T13:45:52Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span dir=&quot;auto&quot;&gt;&lt;span class=&quot;autocomment&quot;&gt;Navigating Different Types of Space&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vendres Olo</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=User:Esi_Otomeya&amp;diff=14228&amp;oldid=14225</id>
+		<title>User:Esi Otomeya</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=User:Esi_Otomeya&amp;diff=14228&amp;oldid=14225"/>
+		<updated>2024-01-24T08:27:08Z</updated>
+
+		<summary type="html">&lt;p&gt;Missions&lt;/p&gt;
+</summary>
+		<author><name>Esi Otomeya</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=User:Ddado&amp;diff=14227&amp;oldid=9423</id>
+		<title>User:Ddado</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=User:Ddado&amp;diff=14227&amp;oldid=9423"/>
+		<updated>2024-01-23T13:22:16Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+</summary>
+		<author><name>Ddado</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=User:Esi_Otomeya&amp;diff=14225&amp;oldid=14158</id>
+		<title>User:Esi Otomeya</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=User:Esi_Otomeya&amp;diff=14225&amp;oldid=14158"/>
+		<updated>2024-01-23T13:12:21Z</updated>
+
+		<summary type="html">&lt;p&gt;Getting the ball rolling.&lt;/p&gt;
+</summary>
+		<author><name>Esi Otomeya</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Triple_Crown_Club&amp;diff=14224&amp;oldid=14222</id>
+		<title>Triple Crown Club</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Triple_Crown_Club&amp;diff=14224&amp;oldid=14222"/>
+		<updated>2024-01-23T13:05:20Z</updated>
+
+		<summary type="html">&lt;p&gt;Resized to match previous medal dimensions&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=User:Khacia_Fides&amp;diff=14223&amp;oldid=0</id>
+		<title>User:Khacia Fides</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=User:Khacia_Fides&amp;diff=14223&amp;oldid=0"/>
+		<updated>2024-01-23T13:00:12Z</updated>
+
+		<summary type="html">&lt;p&gt;Created page with &amp;quot;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Gender:&amp;lt;/b&amp;gt; Female&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Race:&amp;lt;/b&amp;gt; Amarr&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Bloodline:&amp;lt;/b&amp;gt; True Amarrian&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Blood Type:&amp;lt;/b&amp;gt; 0+&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Date of Birth:&amp;lt;/b&amp;gt; 04 February, YC94&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Place of Birth:&amp;lt;/b&amp;gt; Gaha III&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Height:&amp;lt;/b&amp;gt; 164cm (5’3″)&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Weight:&amp;lt;/b&amp;gt; 48kg (105,8 lbs)&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Hair Color:&amp;lt;/b&amp;gt; Blonde&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Eye Color:&amp;lt;/b&amp;gt; Blue&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Licensed:&amp;lt;/b&amp;gt; 10 April, YC118&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Corporation:&amp;lt;/b&amp;gt; Signal Cartel&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Occupatio...&amp;quot;&lt;/p&gt;
+</summary>
+		<author><name>Khacia Fides</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Triple_Crown_Club&amp;diff=14222&amp;oldid=14160</id>
+		<title>Triple Crown Club</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Triple_Crown_Club&amp;diff=14222&amp;oldid=14160"/>
+		<updated>2024-01-23T12:44:26Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span dir=&quot;auto&quot;&gt;&lt;span class=&quot;autocomment&quot;&gt;In-Game Medal for Triple Crown Club Membership&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Public:Katia_Sae_Biography&amp;diff=14216&amp;oldid=14207</id>
+		<title>Public:Katia Sae Biography</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Public:Katia_Sae_Biography&amp;diff=14216&amp;oldid=14207"/>
+		<updated>2024-01-23T11:50:59Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span dir=&quot;auto&quot;&gt;&lt;span class=&quot;autocomment&quot;&gt;Biography&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en-GB&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 11:50, 23 January 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;4&quot; class=&quot;diff-multi&quot; lang=&quot;en-GB&quot;&gt;(2 intermediate revisions by the same user not shown)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l28&quot;&gt;Line 28:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 28:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;*&amp;#039;&amp;#039;&amp;#039;Vessels:&amp;#039;&amp;#039;&amp;#039; Jester’s Trek, Wanderer, Pioneer, Cosmos, Voyager, Discovery, Sojourner&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;*&amp;#039;&amp;#039;&amp;#039;Vessels:&amp;#039;&amp;#039;&amp;#039; Jester’s Trek, Wanderer, Pioneer, Cosmos, Voyager, Discovery, Sojourner&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;*&amp;#039;&amp;#039;&amp;#039;Remarks:&amp;#039;&amp;#039;&amp;#039; Sailing Forbidden Seas&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;*&amp;#039;&amp;#039;&amp;#039;Remarks:&amp;#039;&amp;#039;&amp;#039; Sailing Forbidden Seas&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;*&#039;&#039;&#039;Awards:&#039;&#039;&#039; (&lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;See &lt;/del&gt;[[Medals and Decorations]] &lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;for descriptions&lt;/del&gt;)&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;*&#039;&#039;&#039;Awards:&#039;&#039;&#039; (&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Click on the medal for details or see &lt;/ins&gt;[[Medals and Decorations]])&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;gallery&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;gallery&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;File:Medal_Stargazer.png|&amp;lt;div style=&amp;quot;text-align: center;&amp;quot;&amp;gt;The Stargazer&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;File:Medal_Stargazer.png|&amp;lt;div style=&amp;quot;text-align: center;&amp;quot;&amp;gt;The Stargazer&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;File:Medal_Sagan_Star_of_Distinction.png|&amp;lt;div style=&amp;quot;text-align: center;&amp;quot;&amp;gt;The Sagan Star of Distinction&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;File:Medal_Sagan_Star_of_Distinction.png|&amp;lt;div style=&amp;quot;text-align: center;&amp;quot;&amp;gt;The Sagan Star of Distinction&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-side-deleted&quot;&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;File:Medal_Signal%27s_Little_Helper.png|&amp;lt;div style=&quot;text-align: center;&quot;&gt;Signal’s Little Helper&amp;lt;/div&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;File:Medal_Beyond_the_Horizon_Engineer.png|&amp;lt;div style=&amp;quot;text-align: center;&amp;quot;&amp;gt;Beyond the Horizon Engineer&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;File:Medal_Beyond_the_Horizon_Engineer.png|&amp;lt;div style=&amp;quot;text-align: center;&amp;quot;&amp;gt;Beyond the Horizon Engineer&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;File:Medal_Signal_Cartographer.png|&amp;lt;div style=&amp;quot;text-align: center;&amp;quot;&amp;gt;Signal Cartographer&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;File:Medal_Signal_Cartographer.png|&amp;lt;div style=&amp;quot;text-align: center;&amp;quot;&amp;gt;Signal Cartographer&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-side-deleted&quot;&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&amp;lt;/gallery&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-side-deleted&quot;&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&amp;lt;gallery&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;File:Medal_Upwell_Citadel_Research_Signal_Light.png|&amp;lt;div style=&amp;quot;text-align: center;&amp;quot;&amp;gt;Upwell Citadel Research Signal Light&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;File:Medal_Upwell_Citadel_Research_Signal_Light.png|&amp;lt;div style=&amp;quot;text-align: center;&amp;quot;&amp;gt;Upwell Citadel Research Signal Light&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;File:Medal_Signal_Shared_Storyteller.png|&amp;lt;div style=&amp;quot;text-align: center;&amp;quot;&amp;gt;Signal Shared Storyteller&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;File:Medal_Signal_Shared_Storyteller.png|&amp;lt;div style=&amp;quot;text-align: center;&amp;quot;&amp;gt;Signal Shared Storyteller&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l40&quot;&gt;Line 40:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 43:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;File:Medal_Angel_Signaleer.png|&amp;lt;div style=&amp;quot;text-align: center;&amp;quot;&amp;gt;Angel Signaleer&amp;lt;/br&amp;gt;(twice awarded)&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;File:Medal_Angel_Signaleer.png|&amp;lt;div style=&amp;quot;text-align: center;&amp;quot;&amp;gt;Angel Signaleer&amp;lt;/br&amp;gt;(twice awarded)&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;File:Medal_EvE-Scout_Rescue_Patron.png|&amp;lt;div style=&amp;quot;text-align: center;&amp;quot;&amp;gt;EvE-Scout Rescue Patron&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;File:Medal_EvE-Scout_Rescue_Patron.png|&amp;lt;div style=&amp;quot;text-align: center;&amp;quot;&amp;gt;EvE-Scout Rescue Patron&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;File:Medal_Signal%27s_Little_Helper.png|&amp;lt;div style=&quot;text-align: center;&quot;&gt;Signal’s Little Helper&amp;lt;/div&gt;&lt;/del&gt;&lt;/div&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-side-added&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;/gallery&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;/gallery&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br/&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Katia Sae</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Medals_and_Decorations&amp;diff=14213&amp;oldid=14209</id>
+		<title>Medals and Decorations</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Medals_and_Decorations&amp;diff=14213&amp;oldid=14209"/>
+		<updated>2024-01-23T11:46:32Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span dir=&quot;auto&quot;&gt;&lt;span class=&quot;autocomment&quot;&gt;Retired Medals&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</summary>
+		<author><name>Katia Sae</name></author>
+	</entry>
+</feed>

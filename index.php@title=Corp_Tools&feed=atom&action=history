@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB">
+	<id>https://wiki.signalcartel.space/index.php?title=Corp_Tools&amp;feed=atom&amp;action=history</id>
+	<title>Corp Tools - Revision history</title>
+	<link rel="self" type="application/atom+xml" href="https://wiki.signalcartel.space/index.php?title=Corp_Tools&amp;feed=atom&amp;action=history"/>
+	<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Corp_Tools&amp;action=history"/>
+	<updated>2024-01-26T11:29:12Z</updated>
+	<subtitle>Revision history for this page on the wiki</subtitle>
+	<generator>MediaWiki 1.40.1</generator>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Corp_Tools&amp;diff=13588&amp;oldid=prev</id>
+		<title>Vega Blazar: updated info and fixed bad link</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Corp_Tools&amp;diff=13588&amp;oldid=prev"/>
+		<updated>2023-12-22T21:07:52Z</updated>
+
+		<summary type="html">&lt;p&gt;updated info and fixed bad link&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Corp_Tools&amp;diff=12602&amp;oldid=prev</id>
+		<title>Vega Blazar: added Turnur info</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Corp_Tools&amp;diff=12602&amp;oldid=prev"/>
+		<updated>2023-12-07T22:28:31Z</updated>
+
+		<summary type="html">&lt;p&gt;added Turnur info&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Corp_Tools&amp;diff=12517&amp;oldid=prev</id>
+		<title>Vega Blazar: /* Tripwire */</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Corp_Tools&amp;diff=12517&amp;oldid=prev"/>
+		<updated>2023-12-05T21:31:05Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span dir=&quot;auto&quot;&gt;&lt;span class=&quot;autocomment&quot;&gt;Tripwire&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Corp_Tools&amp;diff=12516&amp;oldid=prev</id>
+		<title>Vega Blazar at 21:27, 5 December 2023</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Corp_Tools&amp;diff=12516&amp;oldid=prev"/>
+		<updated>2023-12-05T21:27:37Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Corp_Tools&amp;diff=12505&amp;oldid=prev</id>
+		<title>Vega Blazar: updated to Hub Scan Tool</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Corp_Tools&amp;diff=12505&amp;oldid=prev"/>
+		<updated>2023-12-05T20:34:29Z</updated>
+
+		<summary type="html">&lt;p&gt;updated to Hub Scan Tool&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Corp_Tools&amp;diff=8533&amp;oldid=prev</id>
+		<title>Vega Blazar at 03:13, 9 April 2023</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Corp_Tools&amp;diff=8533&amp;oldid=prev"/>
+		<updated>2023-04-09T03:13:26Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Corp_Tools&amp;diff=8508&amp;oldid=prev</id>
+		<title>Vega Blazar: /* EVE Gatecamp Check */</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Corp_Tools&amp;diff=8508&amp;oldid=prev"/>
+		<updated>2023-04-08T14:45:21Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span dir=&quot;auto&quot;&gt;&lt;span class=&quot;autocomment&quot;&gt;EVE Gatecamp Check&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Corp_Tools&amp;diff=8507&amp;oldid=prev</id>
+		<title>Vega Blazar: /* Signal Cartel&#039;s Little Helper */</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Corp_Tools&amp;diff=8507&amp;oldid=prev"/>
+		<updated>2023-04-08T14:44:21Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span dir=&quot;auto&quot;&gt;&lt;span class=&quot;autocomment&quot;&gt;Signal Cartel&amp;#039;s Little Helper&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Corp_Tools&amp;diff=8506&amp;oldid=prev</id>
+		<title>Vega Blazar: reformatting</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Corp_Tools&amp;diff=8506&amp;oldid=prev"/>
+		<updated>2023-04-08T14:42:47Z</updated>
+
+		<summary type="html">&lt;p&gt;reformatting&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Corp_Tools&amp;diff=8504&amp;oldid=prev</id>
+		<title>Vega Blazar: /* In-House Tools */</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Corp_Tools&amp;diff=8504&amp;oldid=prev"/>
+		<updated>2023-04-08T13:32:08Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span dir=&quot;auto&quot;&gt;&lt;span class=&quot;autocomment&quot;&gt;In-House Tools&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+</feed>

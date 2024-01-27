@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB">
+	<id>https://wiki.signalcartel.space/api.php?action=feedcontributions&amp;user=MediaWiki+default&amp;feedformat=atom</id>
+	<title>The Explorer&#039;s Compendium - User contributions [en-gb]</title>
+	<link rel="self" type="application/atom+xml" href="https://wiki.signalcartel.space/api.php?action=feedcontributions&amp;user=MediaWiki+default&amp;feedformat=atom"/>
+	<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/Special:Contributions/MediaWiki_default"/>
+	<updated>2024-01-26T14:57:28Z</updated>
+	<subtitle>User contributions</subtitle>
+	<generator>MediaWiki 1.40.1</generator>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Main_Page&amp;diff=1</id>
+		<title>Main Page</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Main_Page&amp;diff=1"/>
+		<updated>2020-07-10T12:59:29Z</updated>
+
+		<summary type="html">&lt;p&gt;MediaWiki default: &lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;&amp;lt;strong&amp;gt;MediaWiki has been installed.&amp;lt;/strong&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+Consult the [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents User&#039;s Guide] for information on using the wiki software.&lt;br /&gt;
+&lt;br /&gt;
+== Getting started ==&lt;br /&gt;
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Configuration settings list]&lt;br /&gt;
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ MediaWiki FAQ]&lt;br /&gt;
+* [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce MediaWiki release mailing list]&lt;br /&gt;
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Localise MediaWiki for your language]&lt;br /&gt;
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Combating_spam Learn how to combat spam on your wiki]&lt;/div&gt;</summary>
+		<author><name>MediaWiki default</name></author>
+	</entry>
+</feed>

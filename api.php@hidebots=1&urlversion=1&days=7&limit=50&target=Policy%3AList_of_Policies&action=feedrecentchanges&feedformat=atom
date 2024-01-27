@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB">
+	<id>https://wiki.signalcartel.space/api.php?hidebots=1&amp;urlversion=1&amp;days=7&amp;limit=50&amp;target=Policy%3AList_of_Policies&amp;action=feedrecentchanges&amp;feedformat=atom</id>
+	<title>The Explorer&#039;s Compendium  - Changes related to &quot;Policy:List of Policies&quot; [en-gb]</title>
+	<link rel="self" type="application/atom+xml" href="https://wiki.signalcartel.space/api.php?hidebots=1&amp;urlversion=1&amp;days=7&amp;limit=50&amp;target=Policy%3AList_of_Policies&amp;action=feedrecentchanges&amp;feedformat=atom"/>
+	<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/Special:RecentChangesLinked"/>
+	<updated>2024-01-26T11:15:40Z</updated>
+	<subtitle>Related changes</subtitle>
+	<generator>MediaWiki 1.40.1</generator>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Public:Orientation_Guide_-_First_24_Hours&amp;diff=14259&amp;oldid=14173</id>
+		<title>Public:Orientation Guide - First 24 Hours</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Public:Orientation_Guide_-_First_24_Hours&amp;diff=14259&amp;oldid=14173"/>
+		<updated>2024-01-26T05:59:03Z</updated>
+
+		<summary type="html">&lt;p&gt;revised intro text to make it more friendly and welcoming&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en-GB&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 05:59, 26 January 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l3&quot;&gt;Line 3:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 3:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;big&amp;gt;&amp;#039;&amp;#039;&amp;#039;Hello and Welcome to Signal Cartel!&amp;#039;&amp;#039;&amp;#039;&amp;lt;/big&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;big&amp;gt;&amp;#039;&amp;#039;&amp;#039;Hello and Welcome to Signal Cartel!&amp;#039;&amp;#039;&amp;#039;&amp;lt;/big&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br/&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;The &#039;&#039;&#039;Signal Cartel New Member Orientation Guide&#039;&#039;&#039; is designed to help you get started on your journey as a “Signaleer”, our affectionate name for a Signal Cartel capsuleer. It provides critical information on our policies, communication channels, apps, services, and divisions within the corp. If you are new to EVE, we have a number of resources available to help you develop the skills and knowledge to successfully explore New Eden. We regularly hold talks and classes on many aspects of the game that are designed for new and experienced pilots alike.&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;The &#039;&#039;&#039;Signal Cartel New Member Orientation Guide&#039;&#039;&#039; is designed to help you get started on your journey as a “Signaleer”, our affectionate name for a Signal Cartel capsuleer. It provides critical information on our policies, communication channels, apps, services, and divisions within the corp. If you are new to EVE, we have a number of resources available to help you develop the skills and knowledge to successfully explore New Eden. We regularly hold talks and classes on many aspects of the game that are designed for new and experienced pilots alike&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;. Our aim is to provide a welcoming and supportive environment for all explorers.&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-side-deleted&quot;&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt; &lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-side-deleted&quot;&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;The format of the Orientation Guide has been conveniently divided into sections that correspond to your time in the corp. Our intent with this approach is to slowly ease you into our corp life and culture while making it as informative and fun as possible. Let&#039;s get started..&lt;/ins&gt;.&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br/&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;  Please note that Signal Cartel utilizes EVE Online to verify your identity and corp membership.  For possibly the first 24 hours* after you join us, you may be unable to access our non-public/protected corp systems and assets.  Read below for more info regarding this topic.&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;  Please note that Signal Cartel utilizes EVE Online to verify your identity and corp membership.  For possibly the first 24 hours* after you join us, you may be unable to access our non-public/protected corp systems and assets.  Read below for more info regarding this topic.&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Orientation_Guide_-_Mandatory_Tasks&amp;diff=14177&amp;oldid=14146</id>
+		<title>Orientation Guide - Mandatory Tasks</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Orientation_Guide_-_Mandatory_Tasks&amp;diff=14177&amp;oldid=14146"/>
+		<updated>2024-01-23T06:12:50Z</updated>
+
+		<summary type="html">&lt;p&gt;revised wording&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Public:Orientation_Guide_-_First_24_Hours&amp;diff=14173&amp;oldid=14147</id>
+		<title>Public:Orientation Guide - First 24 Hours</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Public:Orientation_Guide_-_First_24_Hours&amp;diff=14173&amp;oldid=14147"/>
+		<updated>2024-01-23T05:20:43Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en-GB&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 05:20, 23 January 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l22&quot;&gt;Line 22:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 22:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br/&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;Lastly, please avoid real-life (RL) politics, religion, and other controversial RL topics in all our communication channels/platforms. Members are here to play a game, enjoy each other&amp;#039;s company, escape RL for a bit, and have fun. Conversations should primarily be related to the game and associated events and meta activities.&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;Lastly, please avoid real-life (RL) politics, religion, and other controversial RL topics in all our communication channels/platforms. Members are here to play a game, enjoy each other&amp;#039;s company, escape RL for a bit, and have fun. Conversations should primarily be related to the game and associated events and meta activities.&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;/del&gt;&lt;/div&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-side-added&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Observed or reported conduct violations are reviewed by Leadership.  Generally, Signal Cartel has a Two Strikes and Out policy which will be explained later.&lt;/del&gt;&lt;/div&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-side-added&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br/&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== Wars ==&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== Wars ==&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Orientation_Guide_-_First_Week&amp;diff=14172&amp;oldid=14151</id>
+		<title>Orientation Guide - First Week</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Orientation_Guide_-_First_Week&amp;diff=14172&amp;oldid=14151"/>
+		<updated>2024-01-23T05:12:46Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span dir=&quot;auto&quot;&gt;&lt;span class=&quot;autocomment&quot;&gt;Attend a Signal Cartel Academy Talk&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Orientation_Guide_-_First_Month&amp;diff=14152&amp;oldid=8929</id>
+		<title>Orientation Guide - First Month</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Orientation_Guide_-_First_Month&amp;diff=14152&amp;oldid=8929"/>
+		<updated>2024-01-22T22:53:48Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Orientation_Guide_-_First_Week&amp;diff=14151&amp;oldid=14145</id>
+		<title>Orientation Guide - First Week</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Orientation_Guide_-_First_Week&amp;diff=14151&amp;oldid=14145"/>
+		<updated>2024-01-22T22:51:45Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span dir=&quot;auto&quot;&gt;&lt;span class=&quot;autocomment&quot;&gt;Relocate to a Corporate Base&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Public:Orientation_Guide_-_First_24_Hours&amp;diff=14147&amp;oldid=13693</id>
+		<title>Public:Orientation Guide - First 24 Hours</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Public:Orientation_Guide_-_First_24_Hours&amp;diff=14147&amp;oldid=13693"/>
+		<updated>2024-01-22T22:33:40Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en-GB&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 22:33, 22 January 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l3&quot;&gt;Line 3:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 3:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;big&amp;gt;&amp;#039;&amp;#039;&amp;#039;Hello and Welcome to Signal Cartel!&amp;#039;&amp;#039;&amp;#039;&amp;lt;/big&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;big&amp;gt;&amp;#039;&amp;#039;&amp;#039;Hello and Welcome to Signal Cartel!&amp;#039;&amp;#039;&amp;#039;&amp;lt;/big&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br/&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;The &#039;&#039;&#039;Signal Cartel New Member Orientation Guide&#039;&#039;&#039; is designed to help you get started on your journey as a “Signaleer”, our affectionate name for a Signal Cartel capsuleer. It provides critical information on our policies, communication channels, apps, services, and divisions within the corp. If you are new to EVE, we have a number of resources available to help you develop the skills and knowledge to successfully explore New Eden. We regularly hold classes on many aspects of the game that are designed for new and experienced pilots alike.&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;The &#039;&#039;&#039;Signal Cartel New Member Orientation Guide&#039;&#039;&#039; is designed to help you get started on your journey as a “Signaleer”, our affectionate name for a Signal Cartel capsuleer. It provides critical information on our policies, communication channels, apps, services, and divisions within the corp. If you are new to EVE, we have a number of resources available to help you develop the skills and knowledge to successfully explore New Eden. We regularly hold &lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;talks and &lt;/ins&gt;classes on many aspects of the game that are designed for new and experienced pilots alike.&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br/&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;  Please note that Signal Cartel utilizes EVE Online to verify your identity and corp membership.  For possibly the first 24 hours* after you join us, you may be unable to access our non-public/protected corp systems and assets.  Read below for more info regarding this topic.&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;  Please note that Signal Cartel utilizes EVE Online to verify your identity and corp membership.  For possibly the first 24 hours* after you join us, you may be unable to access our non-public/protected corp systems and assets.  Read below for more info regarding this topic.&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Orientation_Guide_-_Mandatory_Tasks&amp;diff=14146&amp;oldid=14143</id>
+		<title>Orientation Guide - Mandatory Tasks</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Orientation_Guide_-_Mandatory_Tasks&amp;diff=14146&amp;oldid=14143"/>
+		<updated>2024-01-22T22:32:05Z</updated>
+
+		<summary type="html">&lt;p&gt;added more intro language to soften things&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Orientation_Guide_-_First_Week&amp;diff=14145&amp;oldid=13973</id>
+		<title>Orientation Guide - First Week</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Orientation_Guide_-_First_Week&amp;diff=14145&amp;oldid=13973"/>
+		<updated>2024-01-22T22:14:54Z</updated>
+
+		<summary type="html">&lt;p&gt;revised the comforting wording&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Orientation_Guide_-_Mandatory_Tasks&amp;diff=14143&amp;oldid=13972</id>
+		<title>Orientation Guide - Mandatory Tasks</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Orientation_Guide_-_Mandatory_Tasks&amp;diff=14143&amp;oldid=13972"/>
+		<updated>2024-01-22T22:08:20Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span dir=&quot;auto&quot;&gt;&lt;span class=&quot;autocomment&quot;&gt;Next Step: Live the Life&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Orientation_Guide_-_First_Week&amp;diff=13973&amp;oldid=13969</id>
+		<title>Orientation Guide - First Week</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Orientation_Guide_-_First_Week&amp;diff=13973&amp;oldid=13969"/>
+		<updated>2024-01-20T19:02:28Z</updated>
+
+		<summary type="html">&lt;p&gt;updated links&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Orientation_Guide_-_Mandatory_Tasks&amp;diff=13972&amp;oldid=13516</id>
+		<title>Orientation Guide - Mandatory Tasks</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Orientation_Guide_-_Mandatory_Tasks&amp;diff=13972&amp;oldid=13516"/>
+		<updated>2024-01-20T18:56:17Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span dir=&quot;auto&quot;&gt;&lt;span class=&quot;autocomment&quot;&gt;First Week: Meet Allison&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Orientation_Guide_-_First_Week&amp;diff=13969&amp;oldid=13679</id>
+		<title>Orientation Guide - First Week</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Orientation_Guide_-_First_Week&amp;diff=13969&amp;oldid=13679"/>
+		<updated>2024-01-20T17:50:19Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span dir=&quot;auto&quot;&gt;&lt;span class=&quot;autocomment&quot;&gt;Participate in EvE-Scout Rescue Cache (ESRC)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+</feed>

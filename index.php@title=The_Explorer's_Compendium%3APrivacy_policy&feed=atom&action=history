@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB">
+	<id>https://wiki.signalcartel.space/index.php?title=The_Explorer%27s_Compendium:Privacy_policy&amp;feed=atom&amp;action=history</id>
+	<title>The Explorer&#039;s Compendium:Privacy policy - Revision history</title>
+	<link rel="self" type="application/atom+xml" href="https://wiki.signalcartel.space/index.php?title=The_Explorer%27s_Compendium:Privacy_policy&amp;feed=atom&amp;action=history"/>
+	<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=The_Explorer%27s_Compendium:Privacy_policy&amp;action=history"/>
+	<updated>2024-01-26T14:58:38Z</updated>
+	<subtitle>Revision history for this page on the wiki</subtitle>
+	<generator>MediaWiki 1.40.1</generator>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=The_Explorer%27s_Compendium:Privacy_policy&amp;diff=6060&amp;oldid=prev</id>
+		<title>Vega Blazar at 05:45, 18 September 2021</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=The_Explorer%27s_Compendium:Privacy_policy&amp;diff=6060&amp;oldid=prev"/>
+		<updated>2021-09-18T05:45:37Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en-GB&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 05:45, 18 September 2021&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l1&quot;&gt;Line 1:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 1:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;The Explorer&#039;s Compendium is collaboratively developed by its users using [https://www.mediawiki.org/wiki/MediaWiki MediaWiki] software. Anyone with Internet access and a valid Signal Cartel account (who is not otherwise restricted from doing so) may edit the pages of this site after logging in as a registered user. By doing &lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;this&lt;/del&gt;, editors create a published document, and a record of every word added, subtracted, or changed. This is &lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;an &lt;/del&gt;visible act, and editors are identified as the author of such changes. All contributions made to a page, and all information about those contributions, are irrevocably licensed and may be freely copied, quoted, reused, and adapted by Signal Cartel &lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;and &lt;/del&gt;its members and third parties with few restrictions (adapted from the [https://wiki.eveuniversity.org/Main_Page UniWiki] of EVE University).&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;The Explorer&#039;s Compendium (Signal Cartel Wiki) utilizes [https://support.eveonline.com/hc/en-us/articles/205381192-Single-Sign-On-SSO- EVE Online Single Sign On (SSO)], an authentication only client, and does not have access to any of your personally identifiable information (PII) or account information.  Registered users are solely identified by their EVE Online in-game character names.  Therefore, voluntary disclosure of any PII or sensitive information is at a users own risk.  Protection of such information is not implied nor guaranteed.  &lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-side-deleted&quot;&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt; &lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-side-deleted&quot;&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;The Explorer&#039;s Compendium is collaboratively developed by its users using [https://www.mediawiki.org/wiki/MediaWiki MediaWiki] software. Anyone with Internet access and a valid Signal Cartel account (who is not otherwise restricted from doing so) may edit the pages of this site after logging in as a registered user. By doing &lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;so&lt;/ins&gt;, editors create a published document, and a record of every word added, subtracted, or changed. This is &lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;a &lt;/ins&gt;visible act, and editors are identified as the author of such changes. All contributions made to a page, and all information about those contributions, are irrevocably licensed and may be freely copied, quoted, reused, and adapted by Signal Cartel&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;, &lt;/ins&gt;its members&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;, &lt;/ins&gt;and third parties with &lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;[https://creativecommons.org/licenses/by-sa/4.0/ &lt;/ins&gt;few restrictions&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;] &lt;/ins&gt;(adapted from the [https://wiki.eveuniversity.org/Main_Page UniWiki] of EVE University).&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=The_Explorer%27s_Compendium:Privacy_policy&amp;diff=6058&amp;oldid=prev</id>
+		<title>Vega Blazar at 18:35, 16 September 2021</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=The_Explorer%27s_Compendium:Privacy_policy&amp;diff=6058&amp;oldid=prev"/>
+		<updated>2021-09-16T18:35:50Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en-GB&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 18:35, 16 September 2021&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l1&quot;&gt;Line 1:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 1:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;The Explorer&#039;s Compendium is collaboratively developed by its users using [https://www.mediawiki.org/wiki/MediaWiki MediaWiki] software. Anyone with Internet access and a valid Signal Cartel account (who is not otherwise restricted from doing so) may edit the pages of this site after logging in as a registered user. By doing this, editors create a published document, and a record of every word added, subtracted, or changed. This is an visible act, and editors are identified as the author of such changes. All contributions made to a page, and all information about those contributions, are irrevocably licensed and may be freely copied, quoted, reused, and adapted by Signal Cartel members and third parties with few restrictions (adapted from the [https://wiki.eveuniversity.org/Main_Page UniWiki] of EVE University).&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;The Explorer&#039;s Compendium is collaboratively developed by its users using [https://www.mediawiki.org/wiki/MediaWiki MediaWiki] software. Anyone with Internet access and a valid Signal Cartel account (who is not otherwise restricted from doing so) may edit the pages of this site after logging in as a registered user. By doing this, editors create a published document, and a record of every word added, subtracted, or changed. This is an visible act, and editors are identified as the author of such changes. All contributions made to a page, and all information about those contributions, are irrevocably licensed and may be freely copied, quoted, reused, and adapted by Signal Cartel &lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;and its &lt;/ins&gt;members and third parties with few restrictions (adapted from the [https://wiki.eveuniversity.org/Main_Page UniWiki] of EVE University).&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=The_Explorer%27s_Compendium:Privacy_policy&amp;diff=6051&amp;oldid=prev</id>
+		<title>Vega Blazar at 18:00, 16 September 2021</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=The_Explorer%27s_Compendium:Privacy_policy&amp;diff=6051&amp;oldid=prev"/>
+		<updated>2021-09-16T18:00:21Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en-GB&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 18:00, 16 September 2021&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l1&quot;&gt;Line 1:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 1:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;The Explorer&#039;s Compendium is collaboratively developed by its users using [https://www.mediawiki.org/wiki/MediaWiki MediaWiki] software. Anyone with Internet access and a valid Signal Cartel account (who is not otherwise restricted from doing so) may edit the pages of this site after logging in as a registered user. By doing this, editors create a published document, and a record of every word added, subtracted, or changed. This is an &lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;openly &lt;/del&gt;visible act, and editors are identified as the author of such changes. All contributions made to a page, and all information about those contributions, are irrevocably licensed and may be freely copied, quoted, reused and adapted by Signal Cartel members and third parties with few restrictions (adapted from the [https://wiki.eveuniversity.org/Main_Page UniWiki] of EVE University).&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;The Explorer&#039;s Compendium is collaboratively developed by its users using [https://www.mediawiki.org/wiki/MediaWiki MediaWiki] software. Anyone with Internet access and a valid Signal Cartel account (who is not otherwise restricted from doing so) may edit the pages of this site after logging in as a registered user. By doing this, editors create a published document, and a record of every word added, subtracted, or changed. This is an visible act, and editors are identified as the author of such changes. All contributions made to a page, and all information about those contributions, are irrevocably licensed and may be freely copied, quoted, reused&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;, &lt;/ins&gt;and adapted by Signal Cartel members and third parties with few restrictions (adapted from the [https://wiki.eveuniversity.org/Main_Page UniWiki] of EVE University).&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=The_Explorer%27s_Compendium:Privacy_policy&amp;diff=6050&amp;oldid=prev</id>
+		<title>Vega Blazar at 17:58, 16 September 2021</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=The_Explorer%27s_Compendium:Privacy_policy&amp;diff=6050&amp;oldid=prev"/>
+		<updated>2021-09-16T17:58:27Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en-GB&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 17:58, 16 September 2021&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l1&quot;&gt;Line 1:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 1:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;The Explorer&#039;s Compendium is collaboratively developed by its users using [https://www.mediawiki.org/wiki/MediaWiki MediaWiki] software. Anyone with Internet access and a valid Signal Cartel account (who is not otherwise restricted from doing so) may edit the pages of this site after logging in as a registered user. By doing this, editors create a published document, and a record of every word added, subtracted, or changed. This is an openly visible act, and editors are identified as the author of such changes. All contributions made to a page, and all information about those contributions, are irrevocably licensed and may be freely copied, quoted, reused and adapted by third parties with few restrictions (adapted from the [https://wiki.eveuniversity.org/Main_Page UniWiki] of EVE University).&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;The Explorer&#039;s Compendium is collaboratively developed by its users using [https://www.mediawiki.org/wiki/MediaWiki MediaWiki] software. Anyone with Internet access and a valid Signal Cartel account (who is not otherwise restricted from doing so) may edit the pages of this site after logging in as a registered user. By doing this, editors create a published document, and a record of every word added, subtracted, or changed. This is an openly visible act, and editors are identified as the author of such changes. All contributions made to a page, and all information about those contributions, are irrevocably licensed and may be freely copied, quoted, reused and adapted by &lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Signal Cartel members and &lt;/ins&gt;third parties with few restrictions (adapted from the [https://wiki.eveuniversity.org/Main_Page UniWiki] of EVE University).&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=The_Explorer%27s_Compendium:Privacy_policy&amp;diff=6049&amp;oldid=prev</id>
+		<title>Vega Blazar at 17:57, 16 September 2021</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=The_Explorer%27s_Compendium:Privacy_policy&amp;diff=6049&amp;oldid=prev"/>
+		<updated>2021-09-16T17:57:09Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en-GB&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 17:57, 16 September 2021&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l1&quot;&gt;Line 1:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 1:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;The Explorer&#039;s Compendium is collaboratively developed by its users using MediaWiki software. Anyone with Internet access and a valid Signal Cartel account (who is not otherwise restricted from doing so) may edit the pages of this site after logging in as a registered user. By doing this, editors create a published document, and a record of every word added, subtracted, or changed. This is an openly visible act, and editors are identified as the author of such changes. All contributions made to a page, and all information about those contributions, are irrevocably licensed and may be freely copied, quoted, reused and adapted by third parties with few restrictions (adapted from the [https://wiki.eveuniversity.org/Main_Page UniWiki] of EVE University).&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;The Explorer&#039;s Compendium is collaboratively developed by its users using &lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;[https://www.mediawiki.org/wiki/&lt;/ins&gt;MediaWiki &lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;MediaWiki] &lt;/ins&gt;software. Anyone with Internet access and a valid Signal Cartel account (who is not otherwise restricted from doing so) may edit the pages of this site after logging in as a registered user. By doing this, editors create a published document, and a record of every word added, subtracted, or changed. This is an openly visible act, and editors are identified as the author of such changes. All contributions made to a page, and all information about those contributions, are irrevocably licensed and may be freely copied, quoted, reused and adapted by third parties with few restrictions (adapted from the [https://wiki.eveuniversity.org/Main_Page UniWiki] of EVE University).&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=The_Explorer%27s_Compendium:Privacy_policy&amp;diff=6048&amp;oldid=prev</id>
+		<title>Vega Blazar at 17:55, 16 September 2021</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=The_Explorer%27s_Compendium:Privacy_policy&amp;diff=6048&amp;oldid=prev"/>
+		<updated>2021-09-16T17:55:32Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en-GB&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 17:55, 16 September 2021&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l1&quot;&gt;Line 1:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 1:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;The Explorer&#039;s Compendium is collaboratively developed by its users using MediaWiki software. Anyone with Internet access and a valid Signal Cartel account (who is not otherwise restricted from doing so) may edit the pages of this site after logging in as a registered user. By doing this, editors create a published document, and a record of every word added, subtracted, or changed. This is an openly visible act, and editors are identified as the author of such changes. All contributions made to a page, and all information about those contributions, are irrevocably licensed and may be freely copied, quoted, reused and adapted by third parties with few restrictions.&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;The Explorer&#039;s Compendium is collaboratively developed by its users using MediaWiki software. Anyone with Internet access and a valid Signal Cartel account (who is not otherwise restricted from doing so) may edit the pages of this site after logging in as a registered user. By doing this, editors create a published document, and a record of every word added, subtracted, or changed. This is an openly visible act, and editors are identified as the author of such changes. All contributions made to a page, and all information about those contributions, are irrevocably licensed and may be freely copied, quoted, reused and adapted by third parties with few restrictions &lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;(adapted from the [https://wiki.eveuniversity.org/Main_Page UniWiki] of EVE University)&lt;/ins&gt;.&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=The_Explorer%27s_Compendium:Privacy_policy&amp;diff=6047&amp;oldid=prev</id>
+		<title>Vega Blazar: Created page with &quot;The Explorer&#039;s Compendium is collaboratively developed by its users using MediaWiki software. Anyone with Internet access and a valid Signal Cartel account (who is not otherwi...&quot;</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=The_Explorer%27s_Compendium:Privacy_policy&amp;diff=6047&amp;oldid=prev"/>
+		<updated>2021-09-16T17:46:52Z</updated>
+
+		<summary type="html">&lt;p&gt;Created page with &amp;quot;The Explorer&amp;#039;s Compendium is collaboratively developed by its users using MediaWiki software. Anyone with Internet access and a valid Signal Cartel account (who is not otherwi...&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;The Explorer&amp;#039;s Compendium is collaboratively developed by its users using MediaWiki software. Anyone with Internet access and a valid Signal Cartel account (who is not otherwise restricted from doing so) may edit the pages of this site after logging in as a registered user. By doing this, editors create a published document, and a record of every word added, subtracted, or changed. This is an openly visible act, and editors are identified as the author of such changes. All contributions made to a page, and all information about those contributions, are irrevocably licensed and may be freely copied, quoted, reused and adapted by third parties with few restrictions.&lt;/div&gt;</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+</feed>

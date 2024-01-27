@@ -1,0 +1,172 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en-GB">
+  <siteinfo>
+    <sitename>The Explorer's Compendium</sitename>
+    <dbname>dbs810319</dbname>
+    <base>https://wiki.signalcartel.space/Main_Page</base>
+    <generator>MediaWiki 1.40.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">The Explorer's Compendium</namespace>
+      <namespace key="5" case="first-letter">The Explorer's Compendium talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Public</namespace>
+      <namespace key="101" case="first-letter">Public talk</namespace>
+      <namespace key="102" case="first-letter">Policy</namespace>
+      <namespace key="103" case="first-letter">Policy talk</namespace>
+      <namespace key="104" case="first-letter">CS</namespace>
+      <namespace key="105" case="first-letter">CS talk</namespace>
+      <namespace key="106" case="first-letter">SW</namespace>
+      <namespace key="107" case="first-letter">SW talk</namespace>
+      <namespace key="108" case="first-letter">TS</namespace>
+      <namespace key="109" case="first-letter">TS talk</namespace>
+      <namespace key="110" case="first-letter">ESR</namespace>
+      <namespace key="111" case="first-letter">ESR talk</namespace>
+      <namespace key="112" case="first-letter">AD</namespace>
+      <namespace key="113" case="first-letter">AD talk</namespace>
+      <namespace key="114" case="first-letter">ENG</namespace>
+      <namespace key="115" case="first-letter">ENG talk</namespace>
+      <namespace key="116" case="first-letter">SCA</namespace>
+      <namespace key="117" case="first-letter">SCA talk</namespace>
+      <namespace key="118" case="first-letter">FOD</namespace>
+      <namespace key="119" case="first-letter">FOD talk</namespace>
+      <namespace key="120" case="first-letter">Archive</namespace>
+      <namespace key="121" case="first-letter">Archive talk</namespace>
+      <namespace key="122" case="first-letter">1420</namespace>
+      <namespace key="123" case="first-letter">1420 talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Main Page</title>
+    <ns>0</ns>
+    <id>1</id>
+    <revision>
+      <id>13633</id>
+      <parentid>13632</parentid>
+      <timestamp>2023-12-23T04:11:28Z</timestamp>
+      <contributor>
+        <username>Vega Blazar</username>
+        <id>45</id>
+      </contributor>
+      <comment>/* Industrial Services */</comment>
+      <origin>13633</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11377" sha1="jm67152cxvxyrj4451arb1oxoao6sju" xml:space="preserve">[[File:Signal Cartel Wiki Banner Test.png|center|1000px|link=Main_Page]]
+----
+&lt;center&gt;The wiki knowledge vault of [[Public:About_Signal_Cartel|'''Signal Cartel''']], a member of the EvE-Scout Enclave alliance.&lt;/center&gt;
+&lt;center&gt;''For members, By members, For you.''&lt;/center&gt;
+&lt;center&gt;&lt;small&gt;{{NUMBEROFARTICLES}} pages and counting...&lt;/small&gt;&lt;/center&gt;
+----
+{{Template:SignalCartel}}__NOTOC__
+As we build out the wiki, fellow Signaleers are encouraged to explore the pages, [[The_Explorer%27s_Compendium:About|alert us of any issues]], learn more about Signal Cartel and life as an explorer in EVE, and ultimately contribute to our shared knowledge.
+
+= New Signaleer?  Welcome Home! =
+* Please Read and Complete:[[Public:Orientation_Guide_-_First_24_Hours | 👉'''The New Member Orientation Guide'''👈]]
+
+= Signal Cartel Corp Life =
+* '''[[Policy:The_Credo | The Credo]]'''
+** The Credo is the foundation of our corp and alliance culture and drives our behavior and activities both in-game and out-of-game.  Know It. Embrace It. Live It. 
+* '''[[Directory of Important Information (DII)]]''' 
+** Answers for most if not all corp policy/process questions
+* '''[[Who Does What and Who To Contact in the Corp/Alliance | Who Does What and Who to Contact]]'''
+** [[EvE-Scout_Enclave_Org_Chart |Alliance Chain of Command Chart]]
+
+= Learn to Fly Like an Explorer =
+EVE Online is a deep, rich game with many layers. A time investment in learning will make the game much more enjoyable and will help ensure our membership can do as much as possible as soon as possible.  Explore like you mean it!
+
+=== [[The_Explorer%27s_Handbook|The Explorer's Handbook]] ===
+Currently, our handbook is a work in progress - but eventually, it will become your trusted exploration guide to New Eden, Anoikis, and beyond. However, we need ''your help'' to make this a reality.  Please participate in our '''[[Adopt-A-Page | Exploration Adopt-A-Page Initiative]]'''! Your contributions are greatly appreciated. 💖
+* [[Public:Exploration_Site_Safety_Guide|Exploration Site Safety Guide]] - A very handy guide to find out if an exploration site is "safe" to warp to.
+* [[The_Explorer%27s_Addendum | The Explorer's Addendum]] - Further reading and resources for the resourceful explorer. Contains a curated list of high-yield links from ''outside'' the friendly confines of Signal Cartel.
+* [[Exploration_Quotes|The Exploration Mindset]] - Quotes that speak to the nature and highest ideals of exploration and being an explorer.
+
+= How Can I Get Involved In Corp Activities? =
+Signal Cartel has a robust variety of initiatives, services, and programs for all Signaleers to try out and explore some of which are also listed below in the ''Corp Community Service Projects'' section.
+* [[Corp_Activities|'''Click here''']] to learn about these opportunities.
+* For more advice on how to get involved, courtesy of Leadership, please [[How_Can_I_Help_the_Corp%3F|click here]].
+
+= Corp Community Service Projects =
+{{:Corp_Community_Service_Projects}}
+
+= Services Available to Corp Members =
+EVE is hard. Playing EVE alone is even harder. In Signal Cartel, in addition to helpful discourse, the corp offers a range of services to aid all our members.  Please take advantage of these opportunities - it's why they're offered!
+* [[Corp_Services|'''Click here''']] to learn more.
+
+= Corp Tools =
+Signal Cartel uses various out-of-game tools and programs to assist in our exploration efforts.  Utilizing some or all of these tools will help make the game more enjoyable by increasing your situational awareness, productivity, and ability to serve New Eden.
+* [[Corp_Tools|'''Click here''']] to learn more.
+
+= Divisions and Programs =
+== [[AD:Anoikis_Division| Anoikis Division (AD)]] ==
+[[File:Anokis-Division-logo.png|right|80px|Anoikis Division]]
+
+The Anoikis Division offers members of Signal Cartel the opportunity to live and operate from structures within wormhole space. Living in a wormhole provides AD members with a variety of new challenges and experiences with the goal of expanding their knowledge and exploration of New Eden.
+
+== [https://carrier-logistics.space/ Carrier Logistics Ltd.] == 
+Carrier Logistics is a corporation operated by Signal Cartel alts that provides a structured and efficient buyback program exclusively for Signaleers. The program will buy any of your loot and other unwanted stuff from our official Signal Cartel stations. Carrier Logistics has Buyback trained to V.
+
+== [[CS:Central_Services | Central Services (CS)]] ==
+The Central Services Division handles everything from cleaning the corridors around the stations to stocking free-range freshly ground coffee for upper management. We do the jobs no one else wants, such as corp logistics and quartermaster services. You need it, we got it, or we’ll get it. Sure, we're not as glamorous as some of the other divisions, but without a foundation of clean floors to stand upon, our corporation wouldn’t be able to shine like it does!
+
+== [[ENG:Engineering_Division | Engineering Division (ENG)]] ==
+Signal Cartel is a high-tech corporation. The Engineering Division is a small but international group of dedicated Pest Control professionals who also do a little programming on the side. We write and maintain the corporation’s proprietary software applications to support our recruiting and member management services, the Signal Cartel Academy, the EvE-Scout Rescue Division and our Co-Pilot ALLISON, the Fleet Ops Division, and the Carrier Logistics buyback program.
+
+Supporting the estimated 42,000 lines of code needed to run Signal Cartel requires a lot of time spent counting lines of code, but we stay motivated by the ideals enshrined in our division motto: “Rest and drink plenty of fluids.” In our spare time, we like to explore the etymology of obscure German idioms.
+
+== [[EVE_Echoes_Chapter_of_Signal_Cartel|EVE Echoes Chapter of Signal Cartel]] ==
+EVE Echoes is a standalone mobile game developed by NetEase Games in conjunction with CCP Games and based on the EVE Online universe.  Signal Cartel and the Credo are now mobile!
+
+== [[ESR:EvE-Scout_Rescue|EvE-Scout Rescue (ESR)]] ==
+[[File:Eve-Scout-Rescue-Logo-transparent-1.png|left|140px|EvE-Scout Rescue]]
+EvE-Scout Rescue is one of our oldest programs, what started as a simple quest to place caches of supplies for stranded capsuleers has grown to include a 911 Operator team, Search and Rescue Coordinators, as well as the original, greatly expanded, rescue cache program. The 911 Operator team responds to calls for rescue by stranded capsuleers, helping them access our rescue caches or flying out to shepherd them back to known space. In situations where no rescue cache is present or where those options do not provide any help to the stranded pilot, our search and rescue team takes over heading out when we find a route. The whole program is supported by our co-pilot, Allison, who helps with all aspects of the program from providing cache data to alerting our teams when stranded pilots are located. In accordance with our Credo, these services are free and available to capsuleers of all playstyles and allegiance.
+
+== [[FOD:Fleet_Operations_Division | Fleet Operations Division (FOD)]] ==
+[[File:Fleet Operations Division Logo.png|right|260px|Fleet Ops Division]]
+
+The Fleet Operations Division was created to help aspiring pilots learn how to take on new roles within fleets, cultivate new skills, and build confidence. The mission of FOD is to help each Signaleer come into confident possession of their innate talents and facilitate knowledge creation and sharing by fostering connections between Signaleers. FOD recognizes that each Signaleer is unique, and we respect individual needs, differences in learning styles, and variations in desired involvement levels.
+
+== Industrial Services ==
+Two vital corp services form the core of our Industrial Services Division: [[SCRAMS|Signal Cartel Relocation and Moving Service (SCRAMS)]] and [[SCRUBS|Signal Cartel Redistribution of Unwanted Blueprint Service (SCRUBS)]].  SCRAMS is a free relocation service available to new members who have been in the corp less than 60 days. This service will relocate the belongings of new Signaleers from their current high-sec base to a Signal Cartel station of their choice. SCRUBS, on the other hand, is our blueprint buyback service that will buy any and all blueprints located at one of our corp stations or in Jita.  These services are here for you, so be sure to use them!
+
+== Recruitment ==
+Recruitment is the lifeblood of our corporation and helps to safeguard our corporate culture by checking applicants’ understanding of our playstyle, expectations, and Credo.  For many a new applicant, a recruiter is their first point of contact in-game with Signal Cartel.  In addition to this, the recruitment team works tirelessly behind the scenes assessing and processing countless new member applications to weed out the churls, miscreants, undesirables, and malcontents.
+
+== [[SCA:Signal_Cartel_Academy|Signal Cartel Academy (SCA)]] ==
+[[File:SCA_Logo_Redraw.png|left|105px|Signal Cartel Academy]]
+The Signal Cartel Academy is the educational division of Signal Cartel.  The aim of the Academy is to lay out a simple and efficient framework that enables access to the wealth of knowledge, skills, and expertise found within Signal Cartel through the exchange of information between Signaleers.  One such initiative is [[Buddy_Club|Buddy Club]], which is an opt-in service that pairs new Signal Cartel members with more seasoned Signaleers (a Buddy) during their early days of corp membership. Buddies are a friendly point of contact that provide help and guidance as new members adjust to life as a Signaleer.
+
+== [[SW:Splunkworks | Splunkworks (SW)]] ==
+
+[[File:Splunkworks-transparent-green.png|right|85px|Splunkworks]]
+
+Splunkworks, named as a homage to the famous Lockheed Skunkworks and to Signal Cartel co-founder Johnny Splunk, is the division of Signal Cartel that advises members on selecting, fitting, and flying the best ship for their needs. Regular offerings include updating and revising the Corp Fits, instituting fun “Fitting Challenge” contests, and providing more detailed guides for common Signal Cartel use cases, such as Covops Exploration and Wormhole PvE. In addition, our Splunkworks group is our go-to consultant for Fleet Doctrine concept planning.
+
+== [[TS:Thera_and_Turnur_Scanning | Thera and Turnur Scanning (TS)]] ==
+[[File:EvE-Scout Logo transparent.png|left|130px|Thera Scanning]]
+
+The EvE-Scout Mapping Division documents the ever-changing wormhole connections into and out of the hub systems of Thera and Turnur. This free service is provided to the greater New Eden community for the benefit of all capsuleers regardless of playstyle or allegiance. Our scouts are compensated by the generous donations of those that find our service invaluable.
+[[Category:Corp Info and Offerings]]
+
+== Wiki Division ==
+The Wiki Division knows the answer to the ultimate question of life, the universe, and everything. Hint: it's not 42, well...maybe.  Seriously though, the wiki is the knowledge vault of Signal Cartel, housing all our important corp documents and information, from the Credo to our excellent Expedition TripTiks. Since you're already here, why not take a look around?  For members, By members, For you.</text>
+      <sha1>jm67152cxvxyrj4451arb1oxoao6sju</sha1>
+    </revision>
+  </page>
+</mediawiki>

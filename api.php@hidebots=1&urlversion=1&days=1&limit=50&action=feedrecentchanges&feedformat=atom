@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB">
+	<id>https://wiki.signalcartel.space/api.php?hidebots=1&amp;urlversion=1&amp;days=1&amp;limit=50&amp;action=feedrecentchanges&amp;feedformat=atom</id>
+	<title>The Explorer&#039;s Compendium  - Recent changes [en-gb]</title>
+	<link rel="self" type="application/atom+xml" href="https://wiki.signalcartel.space/api.php?hidebots=1&amp;urlversion=1&amp;days=1&amp;limit=50&amp;action=feedrecentchanges&amp;feedformat=atom"/>
+	<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/Special:RecentChanges"/>
+	<updated>2024-01-26T13:40:36Z</updated>
+	<subtitle>Track the most recent changes to the wiki in this feed.</subtitle>
+	<generator>MediaWiki 1.40.1</generator>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Navigating_New_Eden&amp;diff=14261&amp;oldid=14246</id>
+		<title>Navigating New Eden</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Navigating_New_Eden&amp;diff=14261&amp;oldid=14246"/>
+		<updated>2024-01-26T08:53:42Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span dir=&quot;auto&quot;&gt;&lt;span class=&quot;autocomment&quot;&gt;Choosing a Region&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vendres Olo</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Public:Orientation_Guide_-_First_24_Hours&amp;diff=14259&amp;oldid=14173</id>
+		<title>Public:Orientation Guide - First 24 Hours</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Public:Orientation_Guide_-_First_24_Hours&amp;diff=14259&amp;oldid=14173"/>
+		<updated>2024-01-26T05:59:03Z</updated>
+
+		<summary type="html">&lt;p&gt;revised intro text to make it more friendly and welcoming&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en-GB&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 05:59, 26 January 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l3&quot;&gt;Line 3:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 3:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;big&amp;gt;&amp;#039;&amp;#039;&amp;#039;Hello and Welcome to Signal Cartel!&amp;#039;&amp;#039;&amp;#039;&amp;lt;/big&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;big&amp;gt;&amp;#039;&amp;#039;&amp;#039;Hello and Welcome to Signal Cartel!&amp;#039;&amp;#039;&amp;#039;&amp;lt;/big&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br/&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;The &#039;&#039;&#039;Signal Cartel New Member Orientation Guide&#039;&#039;&#039; is designed to help you get started on your journey as a “Signaleer”, our affectionate name for a Signal Cartel capsuleer. It provides critical information on our policies, communication channels, apps, services, and divisions within the corp. If you are new to EVE, we have a number of resources available to help you develop the skills and knowledge to successfully explore New Eden. We regularly hold talks and classes on many aspects of the game that are designed for new and experienced pilots alike.&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;The &#039;&#039;&#039;Signal Cartel New Member Orientation Guide&#039;&#039;&#039; is designed to help you get started on your journey as a “Signaleer”, our affectionate name for a Signal Cartel capsuleer. It provides critical information on our policies, communication channels, apps, services, and divisions within the corp. If you are new to EVE, we have a number of resources available to help you develop the skills and knowledge to successfully explore New Eden. We regularly hold talks and classes on many aspects of the game that are designed for new and experienced pilots alike&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;. Our aim is to provide a welcoming and supportive environment for all explorers.&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-side-deleted&quot;&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt; &lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-side-deleted&quot;&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;The format of the Orientation Guide has been conveniently divided into sections that correspond to your time in the corp. Our intent with this approach is to slowly ease you into our corp life and culture while making it as informative and fun as possible. Let&#039;s get started..&lt;/ins&gt;.&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br/&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;  Please note that Signal Cartel utilizes EVE Online to verify your identity and corp membership.  For possibly the first 24 hours* after you join us, you may be unable to access our non-public/protected corp systems and assets.  Read below for more info regarding this topic.&lt;/div&gt;&lt;/td&gt;&lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;  Please note that Signal Cartel utilizes EVE Online to verify your identity and corp membership.  For possibly the first 24 hours* after you join us, you may be unable to access our non-public/protected corp systems and assets.  Read below for more info regarding this topic.&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=User:Vega_Blazar/Notepad&amp;diff=14258&amp;oldid=14176</id>
+		<title>User:Vega Blazar/Notepad</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=User:Vega_Blazar/Notepad&amp;diff=14258&amp;oldid=14176"/>
+		<updated>2024-01-26T05:49:52Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=ENG:Signal_Cartel%27s_Little_Helper&amp;diff=14257&amp;oldid=3807</id>
+		<title>ENG:Signal Cartel&#039;s Little Helper</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=ENG:Signal_Cartel%27s_Little_Helper&amp;diff=14257&amp;oldid=3807"/>
+		<updated>2024-01-26T04:49:25Z</updated>
+
+		<summary type="html">&lt;p&gt;add banner about SCLH status&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Scan_Club&amp;diff=14256&amp;oldid=13876</id>
+		<title>Scan Club</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Scan_Club&amp;diff=14256&amp;oldid=13876"/>
+		<updated>2024-01-26T04:16:05Z</updated>
+
+		<summary type="html">&lt;p&gt;added Ddado to the Member Roll :)&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=How_to_Nominate_Members_for_Medals&amp;diff=14255&amp;oldid=14134</id>
+		<title>How to Nominate Members for Medals</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=How_to_Nominate_Members_for_Medals&amp;diff=14255&amp;oldid=14134"/>
+		<updated>2024-01-26T03:43:49Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Medals_and_Decorations&amp;diff=14253&amp;oldid=14213</id>
+		<title>Medals and Decorations</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Medals_and_Decorations&amp;diff=14253&amp;oldid=14213"/>
+		<updated>2024-01-26T03:18:40Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span dir=&quot;auto&quot;&gt;&lt;span class=&quot;autocomment&quot;&gt;Division Medals&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=File:Public_Medals_with_Steps.png&amp;diff=14247&amp;oldid=0</id>
+		<title>File:Public Medals with Steps.png</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=File:Public_Medals_with_Steps.png&amp;diff=14247&amp;oldid=0"/>
+		<updated>2024-01-25T22:21:16Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/User:Vega_Blazar&quot; class=&quot;mw-userlink&quot; title=&quot;User:Vega Blazar&quot;&gt;&lt;bdi&gt;Vega Blazar&lt;/bdi&gt;&lt;/a&gt; uploaded &lt;a href=&quot;/File:Public_Medals_with_Steps.png&quot; title=&quot;File:Public Medals with Steps.png&quot;&gt;File:Public Medals with Steps.png&lt;/a&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vega Blazar</name></author>
+	</entry>
+	<entry>
+		<id>https://wiki.signalcartel.space/index.php?title=Navigating_New_Eden&amp;diff=14246&amp;oldid=14241</id>
+		<title>Navigating New Eden</title>
+		<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/index.php?title=Navigating_New_Eden&amp;diff=14246&amp;oldid=14241"/>
+		<updated>2024-01-25T21:04:45Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span dir=&quot;auto&quot;&gt;&lt;span class=&quot;autocomment&quot;&gt;Wormhole Types&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</summary>
+		<author><name>Vendres Olo</name></author>
+	</entry>
+</feed>

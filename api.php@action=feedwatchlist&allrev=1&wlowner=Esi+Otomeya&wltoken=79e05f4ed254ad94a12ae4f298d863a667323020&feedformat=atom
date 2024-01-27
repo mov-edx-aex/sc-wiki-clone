@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB">
+	<id>https://wiki.signalcartel.space/api.php?action=feedwatchlist&amp;allrev=1&amp;wlowner=Esi+Otomeya&amp;wltoken=79e05f4ed254ad94a12ae4f298d863a667323020&amp;feedformat=atom</id>
+	<title>The Explorer&#039;s Compendium - Error - Watchlist [en-gb]</title>
+	<link rel="self" type="application/atom+xml" href="https://wiki.signalcartel.space/api.php?action=feedwatchlist&amp;allrev=1&amp;wlowner=Esi+Otomeya&amp;wltoken=79e05f4ed254ad94a12ae4f298d863a667323020&amp;feedformat=atom"/>
+	<link rel="alternate" type="text/html" href="https://wiki.signalcartel.space/Special:Watchlist"/>
+	<updated>2024-01-26T09:45:28Z</updated>
+	<subtitle>Watchlist</subtitle>
+	<generator>MediaWiki 1.40.1</generator>
+	<entry>
+		<id></id>
+		<title>Error (bad_wltoken)</title>
+		<link rel="alternate" type="text/html" href=""/>
+		<updated>Z</updated>
+
+		<summary type="html">Incorrect watchlist token provided. Please set a correct token in [[Special:Preferences]].</summary>
+		<author><name></name></author>
+	</entry>
+</feed>
